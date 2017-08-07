@@ -6,7 +6,7 @@ THis repository has been created by Open Referral to help encourage hacking on o
 
 **First, what is Open Referral:** [Open Referral](https://openreferral.org/) develops data standards and open platforms that make it easy to share and find information about community resources.
 
-** Next, what is Human Services Data Specification:** The [Human Services Data Specification (HSDS)](http://docs.openreferral.org/en/latest/) is a schema for defining information about community resources, and [the Human Services Data API (HSDA)](https://openreferral.github.io/api-specification/definition/) is an API definition for deploying an API that provides access to information about community resources.
+**Next, what is Human Services Data Specification:** The [Human Services Data Specification (HSDS)](http://docs.openreferral.org/en/latest/) is a schema for defining information about community resources, and [the Human Services Data API (HSDA)](https://openreferral.github.io/api-specification/definition/) is an API definition for deploying an API that provides access to information about community resources.
 
 ## Opportunity To Deploy Human Services Data APIs
 Open Referral needs help designing, developing, deploying and operating HSDA compliant API implementations, in a variety of languages, and on various cloud platforms.
@@ -49,9 +49,9 @@ Beyond developing an API, or an application on top of an Human Services Data API
 
 Here are a couple of existing datasets that could use some HSDS liberation:
 
-[Mental Health Treament Facilities 2016](https://www.samhsa.gov/data/sites/default/files/2016%20National%20Directory%20of%20Mental%20Health%20Treatment%20Facilities.pdf)
-[Drug Alcohol Abuse Treament Facilities 2016](https://www.samhsa.gov/data/sites/default/files/2016%20National%20Directory%20of%20Drug_Alcohol_Abuse%20Treatment%20Facilities.pdf)
-[DataSF Health & Human Services Open Data](https://data.sfgov.org/browse?category=Health+and+Social+Services)
+- [Mental Health Treament Facilities 2016](https://www.samhsa.gov/data/sites/default/files/2016%20National%20Directory%20of%20Mental%20Health%20Treatment%20Facilities.pdf)
+- [Drug Alcohol Abuse Treament Facilities 2016](https://www.samhsa.gov/data/sites/default/files/2016%20National%20Directory%20of%20Drug_Alcohol_Abuse%20Treatment%20Facilities.pdf)
+- [DataSF Health & Human Services Open Data](https://data.sfgov.org/browse?category=Health+and+Social+Services)
 
 Know of another data set that could be made available in the Human Services Data Specification (HSDS) format, or as an Human Services Data API (HSDA)? Feel free to convert and publish to Github as CSV, JSON, or YAML. There are many ways to contribute to developing APIs, applications, and data that helps make human services more accessible and interoperable.
 
