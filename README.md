@@ -1,6 +1,8 @@
 # Optimizely Impact Hackathon
 
-This is the landing page for working with Open Referral Human Services Data Specification (HSDS), and its API at a hackathon in San Francisco, this Wednesday, August 9th, from 2:45 pm – 8:30 pm at Optimizely, 631 Howard St #100, San Francisco, CA 94105 (Phone: (800) 252-9480). It is created by Open Referral to help encourage hacking on our human services data specification and API.
+This is the landing page for working with Open Referral Human Services Data Specification (HSDS), and its API at a hackathon in San Francisco, this Wednesday, August 9th, from 2:45 pm – 8:30 pm at Optimizely, 631 Howard St #100, San Francisco, CA 94105 (Phone: (800) 252-9480). 
+
+THis repository has been created by Open Referral to help encourage hacking on our human services data specification and API.
 
 **First, what is Open Referral:** [Open Referral](https://openreferral.org/) develops data standards and open platforms that make it easy to share and find information about community resources.
 
@@ -9,7 +11,7 @@ This is the landing page for working with Open Referral Human Services Data Spec
 ## Opportunity To Deploy Human Services Data APIs
 Open Referral needs help designing, developing, deploying and operating HSDA compliant API implementations, in a variety of languages, and on various cloud platforms.
 
-Here are some current API implementations:
+Here are some current Human Services Data API implementations:
 
 - [Ohana Implementation](https://github.com/codeforamerica/ohana-api) - An existing Ruby implementation of HSDA compliant API and admin.
 - [HSDA PHP Demo](http://developer.open.referral.adopta.agency/) - A working prototype that drives the HSDA specification.
@@ -26,7 +28,7 @@ We encourage you to deploy and API using any language or platform you choose, so
 - [Azure](https://azure.microsoft.com/en-us/services/app-service/api/)
 - [Firebase](https://firebase.google.com/)
 
-Other platform? There are many ways to deploy an API, we encourage you in helping pioneer an approach that cities, counties, and other human services providers can put to work helping people in their community in an affordable and sustainable way.
+Other platform in mind? There are many ways to deploy an API, we encourage you in helping pioneer an approach that cities, counties, and other human services providers can put to work helping people in their community in an affordable and sustainable way.
 
 ## Opportunity To Deploy Applications On Human Services Data APIs
 
