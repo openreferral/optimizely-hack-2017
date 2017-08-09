@@ -8,6 +8,8 @@ THis repository has been created by Open Referral to help encourage hacking on o
 
 **Next, what is Human Services Data Specification:** The [Human Services Data Specification (HSDS)](http://docs.openreferral.org/en/latest/) is a schema for defining information about community resources, and [the Human Services Data API (HSDA)](https://openreferral.github.io/api-specification/definition/) is an API definition for deploying an API that provides access to information about community resources.
 
+**Where is the OpenAPI for the project:** [Right Here](https://github.com/openreferral/api-specification/blob/master/_data/api-commons/openapi.yaml)!
+
 ## Opportunity To Deploy Human Services Data APIs
 Open Referral needs help designing, developing, deploying and operating HSDA compliant API implementations, in a variety of languages, and on various cloud platforms.
 
