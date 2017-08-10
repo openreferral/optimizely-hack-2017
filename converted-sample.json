@@ -1,0 +1,43 @@
+{
+  "0713158629": {
+    "id": "0713158629",
+    "organization_id": "ubBcMpjUbv",
+    "name": "Lyon-Martin Health Services",
+    "description": "Women's clinic",
+    "physical_address": {
+      "id": 92,
+      "address_1": "1748 Market St., Suite 201",
+      "address_2": null,
+      "city": "San Francisco",
+      "state_province": null,
+      "country": null
+    },
+    "services": {
+      "q14P5NqvBe": {
+        "id": "q14P5NqvBe",
+        "organization_id": "ubBcMpjUbv",
+        "location_id": "ubBcMpjUbv",
+        "name": "Women's clinic",
+        "description": "TB Testing, Pregnancy Test, STD Testing, STD Treatment, HIV Testing, HIV Treatment,\r\nTransgender Svcs, Immunizations, Women’s Health, Family Planning, Mental Health,\r\nPrimary Care. MediCal, MediCare, uninsured people $0-full bill. Women & all transgender welcome.",
+        "application_process": "English & Spanish. Email: info@lyon-martin.org.",
+        "eligibility": {
+          "eligibility": "F"
+        },
+        "regular_schedule": [
+          {
+            "id": 50,
+            "location_id": "ubBcMpjUbv",
+            "organization_id": "ubBcMpjUbv",
+            "service_id": "q14P5NqvBe",
+            "weekday": "Monday",
+            "opens_at": 1100,
+            "closes_at": 1930,
+          }
+        ],
+        "taxonomy_ids": "medical",
+        "latitude": 37.7725604,
+        "longitude": -122.42305579999999,
+      }
+    }
+  }
+}
