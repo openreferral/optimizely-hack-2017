@@ -1,26 +1,18 @@
 [
   {
-    "id": 92,
+    "id": "0713158629",
     "organization_id": "ubBcMpjUbv",
     "name": "Lyon-Martin Health Services",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Women's clinic",
+    "latitude": 37.7725604,
+    "longitude": 37.7725604,
     "physical_address": [
       {
         "id": 92,
-        "organization_id": "ubBcMpjUbv",
-        "name": "Lyon-Martin Health Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1748 Market St., Suite 201",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1748 Market St., Suite 201",
-    "city": "San Francisco",
     "services": [
       {
         "id": "q14P5NqvBe",
@@ -86,27 +78,19 @@
     ]
   },
   {
-    "id": 29,
+    "id": "002dc501be",
     "organization_id": "uNOrOeEDIY",
     "name": "California Youth Crisis Line",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 29,
-        "organization_id": "uNOrOeEDIY",
-        "name": "California Youth Crisis Line",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "7WVTRZedR2",
@@ -193,27 +177,19 @@
     ]
   },
   {
-    "id": 192,
+    "id": "00641ca0eb",
     "organization_id": "gWwSlbhcFQ",
     "name": "Temple United Methodist Church",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7172859,
+    "longitude": 37.7172859,
     "physical_address": [
       {
         "id": 192,
-        "organization_id": "gWwSlbhcFQ",
-        "name": "Temple United Methodist Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "65 Beverly St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "65 Beverly St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "lLrqpgvRff",
@@ -243,27 +219,19 @@
     ]
   },
   {
-    "id": 190,
+    "id": "0146f24d3c",
     "organization_id": "ouYYtq4z7w",
     "name": "Swords to Plowshares",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7787764,
+    "longitude": 37.7787764,
     "physical_address": [
       {
         "id": 190,
-        "organization_id": "ouYYtq4z7w",
-        "name": "Swords to Plowshares",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1060 Howard",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1060 Howard",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8ikCT7C8xg",
@@ -374,27 +342,19 @@
     ]
   },
   {
-    "id": 170,
+    "id": "0509766c9f",
     "organization_id": "Rk8AG9RL8Q",
     "name": "South of Market Mental Health Services (Adult Integrated Service Center) (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.781765,
+    "longitude": 37.781765,
     "physical_address": [
       {
         "id": 170,
-        "organization_id": "Rk8AG9RL8Q",
-        "name": "South of Market Mental Health Services (Adult Integrated Service Center) (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "760 Harrison",
         "city": "San Francisco"
       }
     ],
-    "address_1": "760 Harrison",
-    "city": "San Francisco",
     "services": [
       {
         "id": "gGskKvgexj",
@@ -505,27 +465,19 @@
     ]
   },
   {
-    "id": 16,
+    "id": "086a8aab71",
     "organization_id": "rv1AWWzCxq",
     "name": "Bayview Hunters Point Foundation-Youth Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7327873,
+    "longitude": 37.7327873,
     "physical_address": [
       {
         "id": 16,
-        "organization_id": "rv1AWWzCxq",
-        "name": "Bayview Hunters Point Foundation-Youth Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "5015 3rd St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "5015 3rd St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "UHFZBJ1zgY",
@@ -594,27 +546,19 @@
     ]
   },
   {
-    "id": 103,
+    "id": "0b083a9423",
     "organization_id": "ReiQHXOFd9",
     "name": "Missionaries of Charity",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Women's shelter",
+    "latitude": 37.712207,
+    "longitude": 37.712207,
     "physical_address": [
       {
         "id": 103,
-        "organization_id": "ReiQHXOFd9",
-        "name": "Missionaries of Charity",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "55 Sadowa St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "55 Sadowa St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "KCYOcC0c1D",
@@ -761,27 +705,19 @@
     ]
   },
   {
-    "id": 70,
+    "id": "0ce23f1973",
     "organization_id": "EAvvwrAOop",
     "name": "HIV Mental Health Case Management Program at South Van Ness Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.761051,
+    "longitude": 37.761051,
     "physical_address": [
       {
         "id": 70,
-        "organization_id": "EAvvwrAOop",
-        "name": "HIV Mental Health Case Management Program at South Van Ness Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "755 South Van Ness",
         "city": "San Francisco"
       }
     ],
-    "address_1": "755 South Van Ness",
-    "city": "San Francisco",
     "services": [
       {
         "id": "fZD8Ybjcrw",
@@ -847,27 +783,19 @@
     ]
   },
   {
-    "id": 146,
+    "id": "0d0daddb04",
     "organization_id": "rHMEfM6BAx",
     "name": "SF Public Library - Park Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7703005,
+    "longitude": 37.7703005,
     "physical_address": [
       {
         "id": 146,
-        "organization_id": "rHMEfM6BAx",
-        "name": "SF Public Library - Park Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1833 Page St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1833 Page St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "5dF5pWs6aO",
@@ -1021,27 +949,19 @@
     ]
   },
   {
-    "id": 110,
+    "id": "0eddc160c9",
     "organization_id": "ppkR3nT7nF",
     "name": "North East Medical Services - Noriega Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood Clinic",
+    "latitude": 37.7543153,
+    "longitude": 37.7543153,
     "physical_address": [
       {
         "id": 110,
-        "organization_id": "ppkR3nT7nF",
-        "name": "North East Medical Services - Noriega Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1450 Noriega St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1450 Noriega St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "pWy1TUVMaA",
@@ -1170,27 +1090,19 @@
     ]
   },
   {
-    "id": 43,
+    "id": "102ef594eb",
     "organization_id": "cbUguDmnTb",
     "name": "City Team Ministries",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7800103,
+    "longitude": 37.7800103,
     "physical_address": [
       {
         "id": 43,
-        "organization_id": "cbUguDmnTb",
-        "name": "City Team Ministries",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "164 6th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "164 6th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "3uOf4xwbYz",
@@ -1396,27 +1308,19 @@
     ]
   },
   {
-    "id": 178,
+    "id": "117599ff37",
     "organization_id": "8CpWaT8SAG",
     "name": "St. Anthony Foundation Dining Room",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7820559,
+    "longitude": 37.7820559,
     "physical_address": [
       {
         "id": 178,
-        "organization_id": "8CpWaT8SAG",
-        "name": "St. Anthony Foundation Dining Room",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "121 Golden Gate Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "121 Golden Gate Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "zYdXjUtDIl",
@@ -1500,27 +1404,19 @@
     ]
   },
   {
-    "id": 125,
+    "id": "11c2ace9f6",
     "organization_id": "8SqdQKAzLA",
     "name": "Public Portosan",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7820851,
+    "longitude": 37.7820851,
     "physical_address": [
       {
         "id": 125,
-        "organization_id": "8SqdQKAzLA",
-        "name": "Public Portosan",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "Golden Gate Ave & Jones St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "Golden Gate Ave & Jones St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "JlRKuryaAm",
@@ -1577,27 +1473,19 @@
     ]
   },
   {
-    "id": 37,
+    "id": "176413df61",
     "organization_id": "4d4cQmbptt",
     "name": "Child Protective Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 37,
-        "organization_id": "4d4cQmbptt",
-        "name": "Child Protective Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "d3LxKykMMI",
@@ -1684,27 +1572,19 @@
     ]
   },
   {
-    "id": 166,
+    "id": "1a2bdf06e2",
     "organization_id": "TTXWNnYJSb",
     "name": "San Francisco VA Medical Center - Fort Miley",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Veterans medical clinic",
+    "latitude": 37.7821827,
+    "longitude": 37.7821827,
     "physical_address": [
       {
         "id": 166,
-        "organization_id": "TTXWNnYJSb",
-        "name": "San Francisco VA Medical Center - Fort Miley",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "4150 Clement St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "4150 Clement St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "GQCd9YmN7y",
@@ -1770,27 +1650,19 @@
     ]
   },
   {
-    "id": 168,
+    "id": "1bcb7d4059",
     "organization_id": "OP7MHSVzyJ",
     "name": "Sister Mary Philippa Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.772789,
+    "longitude": 37.772789,
     "physical_address": [
       {
         "id": 168,
-        "organization_id": "OP7MHSVzyJ",
-        "name": "Sister Mary Philippa Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2235 Hayes St., 5th Floor ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2235 Hayes St., 5th Floor ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Tf2sIjkDBt",
@@ -1856,27 +1728,19 @@
     ]
   },
   {
-    "id": 131,
+    "id": "1bd94c8f1c",
     "organization_id": "f6UetabrUX",
     "name": "SF Public Library - Chinatown/Him Mark Lai Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7952365,
+    "longitude": 37.7952365,
     "physical_address": [
       {
         "id": 131,
-        "organization_id": "f6UetabrUX",
-        "name": "SF Public Library - Chinatown/Him Mark Lai Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1135 Powell St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1135 Powell St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "mZ2cDfgOo1",
@@ -1960,27 +1824,19 @@
     ]
   },
   {
-    "id": 67,
+    "id": "1bdcc8bb77",
     "organization_id": "YUuSPRxCNB",
     "name": "Glide Health Services",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Medical Clinic",
+    "latitude": 37.7852675,
+    "longitude": 37.7852675,
     "physical_address": [
       {
         "id": 67,
-        "organization_id": "YUuSPRxCNB",
-        "name": "Glide Health Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "330 Ellis St., 6th Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "330 Ellis St., 6th Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "ZYHmoiwh2M",
@@ -2046,27 +1902,19 @@
     ]
   },
   {
-    "id": 106,
+    "id": "1d26873f0f",
     "organization_id": "lKFGUQtewV",
     "name": "New Generation Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Reproductive health clinic",
+    "latitude": 37.761407,
+    "longitude": 37.761407,
     "physical_address": [
       {
         "id": 106,
-        "organization_id": "lKFGUQtewV",
-        "name": "New Generation Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "625 Potrero Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "625 Potrero Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "V0wHpkLuXI",
@@ -2177,27 +2025,19 @@
     ]
   },
   {
-    "id": 177,
+    "id": "1e0d33bdd0",
     "organization_id": "lqe9TjYVuB",
     "name": "St. Andrew Missionary Baptist Church",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.783488,
+    "longitude": 37.783488,
     "physical_address": [
       {
         "id": 177,
-        "organization_id": "lqe9TjYVuB",
-        "name": "St. Andrew Missionary Baptist Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2565 POST",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2565 POST",
-    "city": "San Francisco",
     "services": [
       {
         "id": "0tHqfoKYFV",
@@ -2217,27 +2057,19 @@
     ]
   },
   {
-    "id": 208,
+    "id": "1f08b33ba0",
     "organization_id": "onlo1xIxTM",
     "name": "Western Addition Neighborhood Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.7838554,
+    "longitude": 37.7838554,
     "physical_address": [
       {
         "id": 208,
-        "organization_id": "onlo1xIxTM",
-        "name": "Western Addition Neighborhood Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1449 Webster St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1449 Webster St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "7faFodobdf",
@@ -2303,27 +2135,19 @@
     ]
   },
   {
-    "id": 173,
+    "id": "21eef71524",
     "organization_id": "kuNWVIZ0Hz",
     "name": "Southeast Child Family Therapy Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7350774,
+    "longitude": 37.7350774,
     "physical_address": [
       {
         "id": 173,
-        "organization_id": "kuNWVIZ0Hz",
-        "name": "Southeast Child Family Therapy Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3905 Mission",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3905 Mission",
-    "city": "San Francisco",
     "services": [
       {
         "id": "pUL7Kuq4y9",
@@ -2392,27 +2216,19 @@
     ]
   },
   {
-    "id": 193,
+    "id": "22909c6b88",
     "organization_id": "3jOyGhqM79",
     "name": "Tenderloin Self Help Center - Central City Hospitality House",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "The Self Help Center drop-in is a place where people can safely tend to their primary needs– escaping the cold, resting free of traffic, noise, or harassment, or just using the restroom. Beyond that, it is a meeting ground where homeless people can socialize comfortably, re-discovering the human experience that is often suppressed during daily survival on the streets. Groceries are distributed weekly to homeless people and residents of the Tenderloin district. ",
+    "latitude": 37.7829867,
+    "longitude": 37.7829867,
     "physical_address": [
       {
         "id": 193,
-        "organization_id": "3jOyGhqM79",
-        "name": "Tenderloin Self Help Center - Central City Hospitality House",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "290 Turk St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "290 Turk St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "JoffjB6xsQ",
@@ -2503,27 +2319,19 @@
     ]
   },
   {
-    "id": 154,
+    "id": "22b391c1af",
     "organization_id": "C041h36olr",
     "name": "SF Public Library - Visitacion Valley Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.712455,
+    "longitude": 37.712455,
     "physical_address": [
       {
         "id": 154,
-        "organization_id": "C041h36olr",
-        "name": "SF Public Library - Visitacion Valley Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "201 Leland Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "201 Leland Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "0tpOLDj3QF",
@@ -2607,27 +2415,19 @@
     ]
   },
   {
-    "id": 3,
+    "id": "24c169bf5c",
     "organization_id": "VbwIjSCcQH",
     "name": "350 Jones - Homeless Storage",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7845145,
+    "longitude": 37.7845145,
     "physical_address": [
       {
         "id": 3,
-        "organization_id": "VbwIjSCcQH",
-        "name": "350 Jones - Homeless Storage",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "350 Jones",
         "city": "San Francisco"
       }
     ],
-    "address_1": "350 Jones",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HZ8G8022b1",
@@ -2693,27 +2493,19 @@
     ]
   },
   {
-    "id": 85,
+    "id": "2c7412f95e",
     "organization_id": "zPsaHIUhZg",
     "name": "Korean American Senior Service",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7768299,
+    "longitude": 37.7768299,
     "physical_address": [
       {
         "id": 85,
-        "organization_id": "zPsaHIUhZg",
-        "name": "Korean American Senior Service",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "745 BUCHANAN",
         "city": "San Francisco"
       }
     ],
-    "address_1": "745 BUCHANAN",
-    "city": "San Francisco",
     "services": [
       {
         "id": "K6zWTHYQwE",
@@ -2733,27 +2525,19 @@
     ]
   },
   {
-    "id": 93,
+    "id": "2c76842112",
     "organization_id": "yRbjiSGsAV",
     "name": "Línea de Apoyo",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 93,
-        "organization_id": "yRbjiSGsAV",
-        "name": "Línea de Apoyo",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "tRQy5vHlyt",
@@ -2819,27 +2603,19 @@
     ]
   },
   {
-    "id": 38,
+    "id": "2d744dcdcc",
     "organization_id": "5rWMWU9zTI",
     "name": "Child and Adolescent Support, Advocacy & Resource Center (CASARC) SFGH",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 38,
-        "organization_id": "5rWMWU9zTI",
-        "name": "Child and Adolescent Support, Advocacy & Resource Center (CASARC) SFGH",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "995 Potrero, Bldg 80, Ward 80, basement",
         "city": "San Francisco"
       }
     ],
-    "address_1": "995 Potrero, Bldg 80, Ward 80, basement",
-    "city": "San Francisco",
     "services": [
       {
         "id": "moqdJtwci3",
@@ -2908,27 +2684,19 @@
     ]
   },
   {
-    "id": 153,
+    "id": "2f1a21c899",
     "organization_id": "XF7C3CQ4eT",
     "name": "SF Public Library - Sunset Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.76336,
+    "longitude": 37.76336,
     "physical_address": [
       {
         "id": 153,
-        "organization_id": "XF7C3CQ4eT",
-        "name": "SF Public Library - Sunset Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1305 18th Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1305 18th Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "XM7ssbXtcj",
@@ -3012,27 +2780,19 @@
     ]
   },
   {
-    "id": 114,
+    "id": "311d4adc7e",
     "organization_id": "RikgQh1Tlx",
     "name": "OMI Family Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.724582,
+    "longitude": 37.724582,
     "physical_address": [
       {
         "id": 114,
-        "organization_id": "RikgQh1Tlx",
-        "name": "OMI Family Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1701 Ocean",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1701 Ocean",
-    "city": "San Francisco",
     "services": [
       {
         "id": "JdR8otxTt1",
@@ -3098,27 +2858,19 @@
     ]
   },
   {
-    "id": 142,
+    "id": "31362a12d0",
     "organization_id": "EB97l4BT6p",
     "name": "SF Public Library - Noe Valley/Sally Brunn Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7501914,
+    "longitude": 37.7501914,
     "physical_address": [
       {
         "id": 142,
-        "organization_id": "EB97l4BT6p",
-        "name": "SF Public Library - Noe Valley/Sally Brunn Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "451 Jersey St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "451 Jersey St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MCUuwMUeWh",
@@ -3202,27 +2954,19 @@
     ]
   },
   {
-    "id": 86,
+    "id": "325c26f806",
     "organization_id": "JPJwEegZCQ",
     "name": "La Casa de las Madres",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Drop-in center for women and families leaving domestic violence.",
+    "latitude": 37.7712045,
+    "longitude": 37.7712045,
     "physical_address": [
       {
         "id": 86,
-        "organization_id": "JPJwEegZCQ",
-        "name": "La Casa de las Madres",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "cC73xGs6rm",
@@ -3367,27 +3111,19 @@
     ]
   },
   {
-    "id": 74,
+    "id": "333bec888d",
     "organization_id": "Hez5Z6dQJ5",
     "name": "HealthRIGHT 360 - Mission Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Medical clinic",
+    "latitude": 37.7695257,
+    "longitude": 37.7695257,
     "physical_address": [
       {
         "id": 74,
-        "organization_id": "Hez5Z6dQJ5",
-        "name": "HealthRIGHT 360 - Mission Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1735 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1735 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "j67onBPl3W",
@@ -3498,27 +3234,19 @@
     ]
   },
   {
-    "id": 1,
+    "id": "34823fab1d",
     "organization_id": "feEn38nklh",
     "name": "24-hour Mental Health /Peer-Counseling Phone Support",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 1,
-        "organization_id": "feEn38nklh",
-        "name": "24-hour Mental Health /Peer-Counseling Phone Support",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Hqo4P2pCUv",
@@ -3602,27 +3330,19 @@
     ]
   },
   {
-    "id": 30,
+    "id": "348aa3ef87",
     "organization_id": "AB53GhPxF9",
     "name": "Cameron House: Social Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7932449,
+    "longitude": 37.7932449,
     "physical_address": [
       {
         "id": 30,
-        "organization_id": "AB53GhPxF9",
-        "name": "Cameron House: Social Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "920 Sacramento",
         "city": "San Francisco"
       }
     ],
-    "address_1": "920 Sacramento",
-    "city": "San Francisco",
     "services": [
       {
         "id": "ecf9ZVY9Pg",
@@ -3688,27 +3408,19 @@
     ]
   },
   {
-    "id": 149,
+    "id": "3534d38ebe",
     "organization_id": "is61CB0vyU",
     "name": "SF Public Library - Potrero Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.760133,
+    "longitude": 37.760133,
     "physical_address": [
       {
         "id": 149,
-        "organization_id": "is61CB0vyU",
-        "name": "SF Public Library - Potrero Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1616 20th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1616 20th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MkR0NAeGk9",
@@ -3783,27 +3495,19 @@
     ]
   },
   {
-    "id": 15,
+    "id": "365229eb83",
     "organization_id": "UHFaAvQMls",
     "name": "Bayview Hunters Point Foundation-Integrated Behavioral Health Program",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7251763,
+    "longitude": 37.7251763,
     "physical_address": [
       {
         "id": 15,
-        "organization_id": "UHFaAvQMls",
-        "name": "Bayview Hunters Point Foundation-Integrated Behavioral Health Program",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "5815 3rd St.",
         "city": "san Francisco"
       }
     ],
-    "address_1": "5815 3rd St.",
-    "city": "san Francisco",
     "services": [
       {
         "id": "cjEvotvTa1",
@@ -3869,27 +3573,19 @@
     ]
   },
   {
-    "id": 207,
+    "id": "36ae7d3635",
     "organization_id": "ooJnJChHi2",
     "name": "Western Addition Beacon Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood center",
+    "latitude": 37.7740153,
+    "longitude": 37.7740153,
     "physical_address": [
       {
         "id": 207,
-        "organization_id": "ooJnJChHi2",
-        "name": "Western Addition Beacon Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "380 Webster St., Rm 21",
         "city": "San Francisco"
       }
     ],
-    "address_1": "380 Webster St., Rm 21",
-    "city": "San Francisco",
     "services": [
       {
         "id": "5qrujMEERg",
@@ -3958,27 +3654,19 @@
     ]
   },
   {
-    "id": 126,
+    "id": "3734e7d45f",
     "organization_id": "BJoeNVZPtu",
     "name": "Raphael House",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Family shelter",
+    "latitude": 37.787763,
+    "longitude": 37.787763,
     "physical_address": [
       {
         "id": 126,
-        "organization_id": "BJoeNVZPtu",
-        "name": "Raphael House",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1065 Sutter St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1065 Sutter St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "DVRFI4h1OA",
@@ -3998,27 +3686,19 @@
     ]
   },
   {
-    "id": 112,
+    "id": "3753ac9866",
     "organization_id": "MB1iZHa7YB",
     "name": "North East Medical Services - San Bruno Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood Clinic",
+    "latitude": 37.72903,
+    "longitude": 37.72903,
     "physical_address": [
       {
         "id": 112,
-        "organization_id": "MB1iZHa7YB",
-        "name": "North East Medical Services - San Bruno Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2574 San Bruno Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2574 San Bruno Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "e8mGdOVX3S",
@@ -4147,27 +3827,19 @@
     ]
   },
   {
-    "id": 31,
+    "id": "3789eb2750",
     "organization_id": "20ivH0qnQE",
     "name": "Catholic Charities - 30th St. Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Senior focused community center",
+    "latitude": 37.741863,
+    "longitude": 37.741863,
     "physical_address": [
       {
         "id": 31,
-        "organization_id": "20ivH0qnQE",
-        "name": "Catholic Charities - 30th St. Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "225 30th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "225 30th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "SVAaA1u3bk",
@@ -4291,27 +3963,19 @@
     ]
   },
   {
-    "id": 121,
+    "id": "37c9842a0a",
     "organization_id": "lJYvpZDXqc",
     "name": "Providence Foundation Family Shelters: First Friendship Family Shelter",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Family shelter",
+    "latitude": 37.773933,
+    "longitude": 37.773933,
     "physical_address": [
       {
         "id": 121,
-        "organization_id": "lJYvpZDXqc",
-        "name": "Providence Foundation Family Shelters: First Friendship Family Shelter",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "501 Steiner St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "501 Steiner St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "3TIgmxsTNm",
@@ -4458,27 +4122,19 @@
     ]
   },
   {
-    "id": 66,
+    "id": "395ce007d3",
     "organization_id": "Yms3fcOq0c",
     "name": "Fraternite Notre Dame",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Lunch Mon. Tues. Wed 11:30am - 1:30pm",
+    "latitude": 37.7834162,
+    "longitude": 37.7834162,
     "physical_address": [
       {
         "id": 66,
-        "organization_id": "Yms3fcOq0c",
-        "name": "Fraternite Notre Dame",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "54 Turk St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "54 Turk St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "PBFWPjPbPN",
@@ -4526,27 +4182,19 @@
     ]
   },
   {
-    "id": 180,
+    "id": "3af7d7de75",
     "organization_id": "LRjs83vuWk",
     "name": "St. Anthony Medical Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7822341,
+    "longitude": 37.7822341,
     "physical_address": [
       {
         "id": 180,
-        "organization_id": "LRjs83vuWk",
-        "name": "St. Anthony Medical Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "150 Golden Gate Ave., 2nd Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "150 Golden Gate Ave., 2nd Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "6t7BfJa5XV",
@@ -4612,27 +4260,19 @@
     ]
   },
   {
-    "id": 27,
+    "id": "3c36006491",
     "organization_id": "7t9HAvgVTj",
     "name": "CHANGES: Mission Neighborhood R.C.",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "For a 90-day bed, line up by 7am. For a 1-night bed, apply during the hours listed.",
+    "latitude": 37.764058,
+    "longitude": 37.764058,
     "physical_address": [
       {
         "id": 27,
-        "organization_id": "7t9HAvgVTj",
-        "name": "CHANGES: Mission Neighborhood R.C.",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "165 Capp St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "165 Capp St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "dQU2gwRw3l",
@@ -4910,27 +4550,19 @@
     ]
   },
   {
-    "id": 35,
+    "id": "3c8f1c8385",
     "organization_id": "YSjjTuzRoi",
     "name": "Central City Older Adults (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7763112,
+    "longitude": 37.7763112,
     "physical_address": [
       {
         "id": 35,
-        "organization_id": "YSjjTuzRoi",
-        "name": "Central City Older Adults (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "90 Van Ness",
         "city": "San Francisco"
       }
     ],
-    "address_1": "90 Van Ness",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8uLLyEJBz4",
@@ -4999,27 +4631,19 @@
     ]
   },
   {
-    "id": 40,
+    "id": "3e74fe4861",
     "organization_id": "BOUA1KrHjK",
     "name": "Chinatown Neighborhood Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.7964203,
+    "longitude": 37.7964203,
     "physical_address": [
       {
         "id": 40,
-        "organization_id": "BOUA1KrHjK",
-        "name": "Chinatown Neighborhood Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "601 Jackson St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "601 Jackson St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "EZQlMr44LE",
@@ -5085,27 +4709,19 @@
     ]
   },
   {
-    "id": 155,
+    "id": "3f6323bfbe",
     "organization_id": "XSHted0tQE",
     "name": "SF Public Library - West Portal Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7413075,
+    "longitude": 37.7413075,
     "physical_address": [
       {
         "id": 155,
-        "organization_id": "XSHted0tQE",
-        "name": "SF Public Library - West Portal Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "190 Lenox Wy.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "190 Lenox Wy.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "CMge0K2A1R",
@@ -5189,27 +4805,19 @@
     ]
   },
   {
-    "id": 182,
+    "id": "3f7489e882",
     "organization_id": "yrfht0MtCG",
     "name": "St. Luke's Neighborhood Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7467242,
+    "longitude": 37.7467242,
     "physical_address": [
       {
         "id": 182,
-        "organization_id": "yrfht0MtCG",
-        "name": "St. Luke's Neighborhood Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1580 Valencia St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1580 Valencia St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "3nvwIciFts",
@@ -5275,27 +4883,19 @@
     ]
   },
   {
-    "id": 135,
+    "id": "4132d16ffa",
     "organization_id": "7iJtzZNajc",
     "name": "SF Public Library - Golden Gate Valley Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7968305,
+    "longitude": 37.7968305,
     "physical_address": [
       {
         "id": 135,
-        "organization_id": "7iJtzZNajc",
-        "name": "SF Public Library - Golden Gate Valley Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1801 Green St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1801 Green St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "7bijkP2fb9",
@@ -5370,27 +4970,19 @@
     ]
   },
   {
-    "id": 183,
+    "id": "427034b9b2",
     "organization_id": "eLIkwiX954",
     "name": "St. Paul Tabernacle Baptist",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.73637,
+    "longitude": 37.73637,
     "physical_address": [
       {
         "id": 183,
-        "organization_id": "eLIkwiX954",
-        "name": "St. Paul Tabernacle Baptist",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1789 Oakdale",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1789 Oakdale",
-    "city": "San Francisco",
     "services": [
       {
         "id": "so2rVHJRfl",
@@ -5420,27 +5012,19 @@
     ]
   },
   {
-    "id": 102,
+    "id": "43340ceb56",
     "organization_id": "s5WFo4ZG4B",
     "name": "Mission Neighborhood Homeless Resource Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Showers and laundry facilities",
+    "latitude": 37.764058,
+    "longitude": 37.764058,
     "physical_address": [
       {
         "id": 102,
-        "organization_id": "s5WFo4ZG4B",
-        "name": "Mission Neighborhood Homeless Resource Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "165 Capp St., #1001",
         "city": "San Francisco"
       }
     ],
-    "address_1": "165 Capp St., #1001",
-    "city": "San Francisco",
     "services": [
       {
         "id": "7RdZKf2dE4",
@@ -5630,27 +5214,19 @@
     ]
   },
   {
-    "id": 100,
+    "id": "43beb72d09",
     "organization_id": "JR5gB3xcUh",
     "name": "Mission Neighborhood Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7609564,
+    "longitude": 37.7609564,
     "physical_address": [
       {
         "id": 100,
-        "organization_id": "JR5gB3xcUh",
-        "name": "Mission Neighborhood Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "362 Capp St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "362 Capp St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "GWTnzJqm6e",
@@ -5783,27 +5359,19 @@
     ]
   },
   {
-    "id": 78,
+    "id": "451619c9f1",
     "organization_id": "abWNMg2ura",
     "name": "IT Bookman Community Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Mutli-purpose center",
+    "latitude": 37.7145034,
+    "longitude": 37.7145034,
     "physical_address": [
       {
         "id": 78,
-        "organization_id": "abWNMg2ura",
-        "name": "IT Bookman Community Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "446 Randolph St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "446 Randolph St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "NRdWfrKh7h",
@@ -5869,27 +5437,19 @@
     ]
   },
   {
-    "id": 56,
+    "id": "460d4a9316",
     "organization_id": "5xT4yqFn8P",
     "name": "Episcopal Community Services - Adult Education Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Adult education program",
+    "latitude": 37.7768144,
+    "longitude": 37.7768144,
     "physical_address": [
       {
         "id": 56,
-        "organization_id": "5xT4yqFn8P",
-        "name": "Episcopal Community Services - Adult Education Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "165 8th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "165 8th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "y6Cs1AP6vx",
@@ -5949,27 +5509,19 @@
     ]
   },
   {
-    "id": 111,
+    "id": "4620938832",
     "organization_id": "KlyaRC7Npa",
     "name": "North East Medical Services - Richmond Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7825963,
+    "longitude": 37.7825963,
     "physical_address": [
       {
         "id": 111,
-        "organization_id": "KlyaRC7Npa",
-        "name": "North East Medical Services - Richmond Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1033 Clement St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1033 Clement St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "iD7DxbMCtd",
@@ -6098,27 +5650,19 @@
     ]
   },
   {
-    "id": 176,
+    "id": "47ea71ad50",
     "organization_id": "X0VYFHYEwD",
     "name": "St. Aidan's",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7432601,
+    "longitude": 37.7432601,
     "physical_address": [
       {
         "id": 176,
-        "organization_id": "X0VYFHYEwD",
-        "name": "St. Aidan's",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "101 Goldmine Dr.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "101 Goldmine Dr.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HUIeeXK3HJ",
@@ -6148,27 +5692,19 @@
     ]
   },
   {
-    "id": 62,
+    "id": "488cfb2eec",
     "organization_id": "Xs6uBJwIcK",
     "name": "Family Service Agency of SF",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7885212,
+    "longitude": 37.7885212,
     "physical_address": [
       {
         "id": 62,
-        "organization_id": "Xs6uBJwIcK",
-        "name": "Family Service Agency of SF",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1500 Franklin",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1500 Franklin",
-    "city": "San Francisco",
     "services": [
       {
         "id": "uigtmTWUVf",
@@ -6234,27 +5770,19 @@
     ]
   },
   {
-    "id": 97,
+    "id": "48a93f4d1c",
     "organization_id": "3EtNSSEc2E",
     "name": "Men’s Crisis Line",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 97,
-        "organization_id": "3EtNSSEc2E",
-        "name": "Men’s Crisis Line",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "gxHE1UbaoD",
@@ -6338,27 +5866,19 @@
     ]
   },
   {
-    "id": 107,
+    "id": "4c2e933933",
     "organization_id": "EzICpM45se",
     "name": "Night Ministry",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 107,
-        "organization_id": "EzICpM45se",
-        "name": "Night Ministry",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8k7VCvASWC",
@@ -6505,27 +6025,19 @@
     ]
   },
   {
-    "id": 171,
+    "id": "4cc98fc9ee",
     "organization_id": "0xXW9dHG7y",
     "name": "Southeast Child Family Therapy Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7117549,
+    "longitude": 37.7117549,
     "physical_address": [
       {
         "id": 171,
-        "organization_id": "0xXW9dHG7y",
-        "name": "Southeast Child Family Therapy Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "100 Blanken",
         "city": "San Francisco"
       }
     ],
-    "address_1": "100 Blanken",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Rpcu4Uz9ap",
@@ -6603,27 +6115,19 @@
     ]
   },
   {
-    "id": 95,
+    "id": "4d3035380b",
     "organization_id": "KX2p4n41kP",
     "name": "Mary Elizabeth Inn",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Women's food services",
+    "latitude": 37.789722,
+    "longitude": 37.789722,
     "physical_address": [
       {
         "id": 95,
-        "organization_id": "KX2p4n41kP",
-        "name": "Mary Elizabeth Inn",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1040 Bush St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1040 Bush St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "q1xFMdoYtC",
@@ -6653,27 +6157,19 @@
     ]
   },
   {
-    "id": 161,
+    "id": "503459291b",
     "organization_id": "d8ExiswoKf",
     "name": "San Francisco City Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free or low-cost diagnosis and treatment for sexually transmitted diseases",
+    "latitude": 37.7759146,
+    "longitude": 37.7759146,
     "physical_address": [
       {
         "id": 161,
-        "organization_id": "d8ExiswoKf",
-        "name": "San Francisco City Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "356 7th St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "356 7th St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "SlhDP7anUM",
@@ -6739,27 +6235,19 @@
     ]
   },
   {
-    "id": 98,
+    "id": "513b3e3cca",
     "organization_id": "pHnY5qMZLX",
     "name": "Mission Family Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.760999,
+    "longitude": 37.760999,
     "physical_address": [
       {
         "id": 98,
-        "organization_id": "pHnY5qMZLX",
-        "name": "Mission Family Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "759 South Van Ness",
         "city": "San Francisco"
       }
     ],
-    "address_1": "759 South Van Ness",
-    "city": "San Francisco",
     "services": [
       {
         "id": "1PTT76P41t",
@@ -6825,27 +6313,19 @@
     ]
   },
   {
-    "id": 69,
+    "id": "51a1025c04",
     "organization_id": "WoWqIZjRez",
     "name": "Glide Women’s Center Domestic Violence Program",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7852675,
+    "longitude": 37.7852675,
     "physical_address": [
       {
         "id": 69,
-        "organization_id": "WoWqIZjRez",
-        "name": "Glide Women’s Center Domestic Violence Program",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "330 Ellis",
         "city": "San Francisco"
       }
     ],
-    "address_1": "330 Ellis",
-    "city": "San Francisco",
     "services": [
       {
         "id": "p0D44gHd3w",
@@ -6902,27 +6382,19 @@
     ]
   },
   {
-    "id": 18,
+    "id": "51a8710ceb",
     "organization_id": "KTJuUcKkz4",
     "name": "Bayview/Hunter's Point Beacon Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access and training center",
+    "latitude": 37.7206433,
+    "longitude": 37.7206433,
     "physical_address": [
       {
         "id": 18,
-        "organization_id": "KTJuUcKkz4",
-        "name": "Bayview/Hunter's Point Beacon Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "400 Mansell St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "400 Mansell St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "5HaV2au3oh",
@@ -6997,27 +6469,19 @@
     ]
   },
   {
-    "id": 211,
+    "id": "51ee925e64",
     "organization_id": "2jbZffGF8Z",
     "name": "Westside Crisis",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7727099,
+    "longitude": 37.7727099,
     "physical_address": [
       {
         "id": 211,
-        "organization_id": "2jbZffGF8Z",
-        "name": "Westside Crisis",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": " 245 11th St",
         "city": "San Francisco"
       }
     ],
-    "address_1": " 245 11th St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "fvGOgBlIRG",
@@ -7092,27 +6556,19 @@
     ]
   },
   {
-    "id": 96,
+    "id": "530cd1efde",
     "organization_id": "9WiIpm1cQI",
     "name": "Meals on Wheels of San Francisco, Inc.",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Senior meal delivery service",
+    "latitude": 37.7393897,
+    "longitude": 37.7393897,
     "physical_address": [
       {
         "id": 96,
-        "organization_id": "9WiIpm1cQI",
-        "name": "Meals on Wheels of San Francisco, Inc.",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1375 Fairfax Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1375 Fairfax Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "0YoAuXtgM4",
@@ -7181,27 +6637,19 @@
     ]
   },
   {
-    "id": 99,
+    "id": "551fe77133",
     "organization_id": "1OzTib0av4",
     "name": "Mission Neighborhood Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.7475229,
+    "longitude": 37.7475229,
     "physical_address": [
       {
         "id": 99,
-        "organization_id": "1OzTib0av4",
-        "name": "Mission Neighborhood Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3120 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3120 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MraOwcFTvB",
@@ -7267,27 +6715,19 @@
     ]
   },
   {
-    "id": 145,
+    "id": "5564b4134d",
     "organization_id": "7k4OW147Bj",
     "name": "SF Public Library - Ortega Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.751169,
+    "longitude": 37.751169,
     "physical_address": [
       {
         "id": 145,
-        "organization_id": "7k4OW147Bj",
-        "name": "SF Public Library - Ortega Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3223 Ortega St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3223 Ortega St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "YHKqPwaq1k",
@@ -7371,27 +6811,19 @@
     ]
   },
   {
-    "id": 32,
+    "id": "5a09138097",
     "organization_id": "Y4r0McTvDF",
     "name": "Catholic Charities - OMI Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multipurpose senior center serving the Oceanview, Merced, and Ingleside districts of San Francisco.",
+    "latitude": 37.7172859,
+    "longitude": 37.7172859,
     "physical_address": [
       {
         "id": 32,
-        "organization_id": "Y4r0McTvDF",
-        "name": "Catholic Charities - OMI Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "65 Beverly St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "65 Beverly St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8IT4lsuS5R",
@@ -7624,27 +7056,19 @@
     ]
   },
   {
-    "id": 51,
+    "id": "5b301b3f3a",
     "organization_id": "fdjAlH3mbX",
     "name": "Dr. George W. Davis Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access for seniors",
+    "latitude": 37.7259673,
+    "longitude": 37.7259673,
     "physical_address": [
       {
         "id": 51,
-        "organization_id": "fdjAlH3mbX",
-        "name": "Dr. George W. Davis Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1753 Carrol Ave",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1753 Carrol Ave",
-    "city": "San Francisco",
     "services": [
       {
         "id": "wZmH76Ka8h",
@@ -7713,27 +7137,19 @@
     ]
   },
   {
-    "id": 200,
+    "id": "5d09114a89",
     "organization_id": "7jZuXU3Rlv",
     "name": "United Council of Human Services - Jennings",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7268119,
+    "longitude": 37.7268119,
     "physical_address": [
       {
         "id": 200,
-        "organization_id": "7jZuXU3Rlv",
-        "name": "United Council of Human Services - Jennings",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2111 Jennings St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2111 Jennings St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "70RHcBW5ng",
@@ -7959,27 +7375,19 @@
     ]
   },
   {
-    "id": 130,
+    "id": "5d90c2e39b",
     "organization_id": "N2nl5Fo3TU",
     "name": "SF Public Library - Bernal Heights Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7388503,
+    "longitude": 37.7388503,
     "physical_address": [
       {
         "id": 130,
-        "organization_id": "N2nl5Fo3TU",
-        "name": "SF Public Library - Bernal Heights Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "500 Cortland Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "500 Cortland Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Ikw5n2199C",
@@ -8054,27 +7462,19 @@
     ]
   },
   {
-    "id": 215,
+    "id": "60084d8820",
     "organization_id": "sa8DAFwqoL",
     "name": "YMCA: OMI Family Resource Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7157091,
+    "longitude": 37.7157091,
     "physical_address": [
       {
         "id": 215,
-        "organization_id": "sa8DAFwqoL",
-        "name": "YMCA: OMI Family Resource Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "650 Capitol Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "650 Capitol Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "h6HPspgk5f",
@@ -8104,27 +7504,19 @@
     ]
   },
   {
-    "id": 71,
+    "id": "605d56245c",
     "organization_id": "EQt9xfnrOY",
     "name": "Haight Ashbury Food Program - Food Service Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Weekly pantry program",
+    "latitude": 37.768532,
+    "longitude": 37.768532,
     "physical_address": [
       {
         "id": 71,
-        "organization_id": "EQt9xfnrOY",
-        "name": "Haight Ashbury Food Program - Food Service Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1525 Waller St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1525 Waller St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "GN4tqtzrB6",
@@ -8154,27 +7546,19 @@
     ]
   },
   {
-    "id": 140,
+    "id": "615464c6e7",
     "organization_id": "R43lEkKHvy",
     "name": "SF Public Library - Mission Bay Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7753246,
+    "longitude": 37.7753246,
     "physical_address": [
       {
         "id": 140,
-        "organization_id": "R43lEkKHvy",
-        "name": "SF Public Library - Mission Bay Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "960 Fourth St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "960 Fourth St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "3c4ub8CvOA",
@@ -8258,27 +7642,19 @@
     ]
   },
   {
-    "id": 53,
+    "id": "61af5fa670",
     "organization_id": "oBeC8XO4DL",
     "name": "Economic Opportunity Council (EOC) - Commodity Food Program",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service organization",
+    "latitude": 37.7828241,
+    "longitude": 37.7828241,
     "physical_address": [
       {
         "id": 53,
-        "organization_id": "oBeC8XO4DL",
-        "name": "Economic Opportunity Council (EOC) - Commodity Food Program",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1426 Fillmore St., Suite 301",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1426 Fillmore St., Suite 301",
-    "city": "San Francisco",
     "services": [
       {
         "id": "SVyrk0Ig28",
@@ -8347,27 +7723,19 @@
     ]
   },
   {
-    "id": 6,
+    "id": "62f1172008",
     "organization_id": "sX7J24ldM2",
     "name": "AIDS Housing Alliance",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Rental Assistance resource center",
+    "latitude": 37.7817478,
+    "longitude": 37.7817478,
     "physical_address": [
       {
         "id": 6,
-        "organization_id": "sX7J24ldM2",
-        "name": "AIDS Housing Alliance",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "350 Golden Gate Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "350 Golden Gate Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "XTEML6wWfG",
@@ -8406,27 +7774,19 @@
     ]
   },
   {
-    "id": 201,
+    "id": "655df5703f",
     "organization_id": "8VKfxVPb7V",
     "name": "United Council of Human Services - Oakdale",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7288826,
+    "longitude": 37.7288826,
     "physical_address": [
       {
         "id": 201,
-        "organization_id": "8VKfxVPb7V",
-        "name": "United Council of Human Services - Oakdale",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1065 Oakdale Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1065 Oakdale Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "7EN0XkKnX5",
@@ -8456,27 +7816,19 @@
     ]
   },
   {
-    "id": 186,
+    "id": "65ce58a696",
     "organization_id": "o3lCI5KrV0",
     "name": "Stonestown YMCA",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Mutli-service center",
+    "latitude": 37.728975,
+    "longitude": 37.728975,
     "physical_address": [
       {
         "id": 186,
-        "organization_id": "o3lCI5KrV0",
-        "name": "Stonestown YMCA",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3150 20th Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3150 20th Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "1Gd0ZoctOu",
@@ -8587,27 +7939,19 @@
     ]
   },
   {
-    "id": 216,
+    "id": "668e893601",
     "organization_id": "xqK3oSJaW7",
     "name": "Youth With A Mission",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7847575,
+    "longitude": 37.7847575,
     "physical_address": [
       {
         "id": 216,
-        "organization_id": "xqK3oSJaW7",
-        "name": "Youth With A Mission",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "357 Ellis St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "357 Ellis St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "UrUaumKNSG",
@@ -8637,27 +7981,19 @@
     ]
   },
   {
-    "id": 122,
+    "id": "676f1940c3",
     "organization_id": "i5O2RciB9B",
     "name": "Providence Foundation Family Shelters: Providence Family Shelter",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Family shelter",
+    "latitude": 37.735808,
+    "longitude": 37.735808,
     "physical_address": [
       {
         "id": 122,
-        "organization_id": "i5O2RciB9B",
-        "name": "Providence Foundation Family Shelters: Providence Family Shelter",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1601 McKinnon Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1601 McKinnon Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "AFU2Y1O5md",
@@ -8804,27 +8140,19 @@
     ]
   },
   {
-    "id": 24,
+    "id": "67ef47d8b5",
     "organization_id": "sMrY1riY8Y",
     "name": "CHANGES: Bayview Hunters Point R.C.",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "For 90-day shelter bed line up by 7am. For 1-night emergency bed, apply during the hours listed.",
+    "latitude": 37.7268119,
+    "longitude": 37.7268119,
     "physical_address": [
       {
         "id": 24,
-        "organization_id": "sMrY1riY8Y",
-        "name": "CHANGES: Bayview Hunters Point R.C.",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2111 Jennings St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2111 Jennings St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "P1Q3u5g4Kn",
@@ -9129,27 +8457,19 @@
     ]
   },
   {
-    "id": 36,
+    "id": "697dd3b626",
     "organization_id": "jkjXtgr8fE",
     "name": "Child Crisis",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 36,
-        "organization_id": "jkjXtgr8fE",
-        "name": "Child Crisis",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "gmh9OpP5tG",
@@ -9236,27 +8556,19 @@
     ]
   },
   {
-    "id": 197,
+    "id": "6a04a3d7cb",
     "organization_id": "isiHc4nheq",
     "name": "Trauma Recovery/Rape Treatment Center",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7628656,
+    "longitude": 37.7628656,
     "physical_address": [
       {
         "id": 197,
-        "organization_id": "isiHc4nheq",
-        "name": "Trauma Recovery/Rape Treatment Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2727 Mariposa, Suite 100",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2727 Mariposa, Suite 100",
-    "city": "San Francisco",
     "services": [
       {
         "id": "lwKJdm6EPT",
@@ -9322,27 +8634,19 @@
     ]
   },
   {
-    "id": 19,
+    "id": "6a1c6fc1d2",
     "organization_id": "7pDuz14HDI",
     "name": "Bernal Heights Neighborhood Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Community Center",
+    "latitude": 37.7392223,
+    "longitude": 37.7392223,
     "physical_address": [
       {
         "id": 19,
-        "organization_id": "7pDuz14HDI",
-        "name": "Bernal Heights Neighborhood Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "515 Cortland Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "515 Cortland Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "N5ZJrF3JHS",
@@ -9417,27 +8721,19 @@
     ]
   },
   {
-    "id": 105,
+    "id": "6b21bd53e2",
     "organization_id": "aVAUZ5V6Iv",
     "name": "Native American Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Clinic",
+    "latitude": 37.7641193,
+    "longitude": 37.7641193,
     "physical_address": [
       {
         "id": 105,
-        "organization_id": "aVAUZ5V6Iv",
-        "name": "Native American Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "160 Capp St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "160 Capp St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "1iBBSgxeiZ",
@@ -9503,27 +8799,19 @@
     ]
   },
   {
-    "id": 162,
+    "id": "6d1bc4d8b0",
     "organization_id": "Zhs6PKTGLM",
     "name": "San Francisco City Mission: S.F. Rescue Mission",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free meal",
+    "latitude": 37.783401,
+    "longitude": 37.783401,
     "physical_address": [
       {
         "id": 162,
-        "organization_id": "Zhs6PKTGLM",
-        "name": "San Francisco City Mission: S.F. Rescue Mission",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "140 Turk St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "140 Turk St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "FglzQTSf0U",
@@ -9634,27 +8922,19 @@
     ]
   },
   {
-    "id": 179,
+    "id": "6da2beed74",
     "organization_id": "ky4NlsKStx",
     "name": "St. Anthony Foundation: Tenderloin Technology Lab",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7821992,
+    "longitude": 37.7821992,
     "physical_address": [
       {
         "id": 179,
-        "organization_id": "ky4NlsKStx",
-        "name": "St. Anthony Foundation: Tenderloin Technology Lab",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "150 Golden Gate Ave., 3rd Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "150 Golden Gate Ave., 3rd Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "t1Wixq9Txo",
@@ -9768,27 +9048,19 @@
     ]
   },
   {
-    "id": 52,
+    "id": "6fb8b755d2",
     "organization_id": "pjH2pYoRhK",
     "name": "EDD Civic Center Neighborhood Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.781465,
+    "longitude": 37.781465,
     "physical_address": [
       {
         "id": 52,
-        "organization_id": "pjH2pYoRhK",
-        "name": "EDD Civic Center Neighborhood Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "801 Turk St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "801 Turk St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "AydbfX8pxf",
@@ -9854,27 +9126,19 @@
     ]
   },
   {
-    "id": 184,
+    "id": "6fcf046398",
     "organization_id": "jYCQXj0Cz4",
     "name": "St. Peter & Paul Catholic Church",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free meal",
+    "latitude": 37.8014107,
+    "longitude": 37.8014107,
     "physical_address": [
       {
         "id": 184,
-        "organization_id": "jYCQXj0Cz4",
-        "name": "St. Peter & Paul Catholic Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "666 Filbert St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "666 Filbert St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "6iCPLZ2o8Q",
@@ -9958,27 +9222,19 @@
     ]
   },
   {
-    "id": 150,
+    "id": "70f83483f6",
     "organization_id": "JoUd4Bu04h",
     "name": "SF Public Library - Presidio Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7888519,
+    "longitude": 37.7888519,
     "physical_address": [
       {
         "id": 150,
-        "organization_id": "JoUd4Bu04h",
-        "name": "SF Public Library - Presidio Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3150 Sacramento St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3150 Sacramento St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "f7I4osT8vx",
@@ -10053,27 +9309,19 @@
     ]
   },
   {
-    "id": 119,
+    "id": "7138062ec4",
     "organization_id": "8HNoXsilE2",
     "name": "Potrero Hill Health Center (Caleb G. Clark)",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7539895,
+    "longitude": 37.7539895,
     "physical_address": [
       {
         "id": 119,
-        "organization_id": "8HNoXsilE2",
-        "name": "Potrero Hill Health Center (Caleb G. Clark)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1050 Wisconsin St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1050 Wisconsin St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "PN3z1s3Xlo",
@@ -10175,27 +9423,19 @@
     ]
   },
   {
-    "id": 163,
+    "id": "71b18f7cc0",
     "organization_id": "atXzTYGhe3",
     "name": "San Francisco Day Labor Program",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Outreach clinic",
+    "latitude": 37.7484221,
+    "longitude": 37.7484221,
     "physical_address": [
       {
         "id": 163,
-        "organization_id": "atXzTYGhe3",
-        "name": "San Francisco Day Labor Program",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3358 Cesar Chavez St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3358 Cesar Chavez St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "51uzp76CVH",
@@ -10225,27 +9465,19 @@
     ]
   },
   {
-    "id": 136,
+    "id": "71d447ea1f",
     "organization_id": "T6KsuBHu4L",
     "name": "SF Public Library - Ingleside Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.724132,
+    "longitude": 37.724132,
     "physical_address": [
       {
         "id": 136,
-        "organization_id": "T6KsuBHu4L",
-        "name": "SF Public Library - Ingleside Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1298 Ocean Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1298 Ocean Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "ZKozNNW9EI",
@@ -10329,27 +9561,19 @@
     ]
   },
   {
-    "id": 160,
+    "id": "720d6f4110",
     "organization_id": "pm8UbGdrtx",
     "name": "Salvation Army, Mission",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.754375,
+    "longitude": 37.754375,
     "physical_address": [
       {
         "id": 160,
-        "organization_id": "pm8UbGdrtx",
-        "name": "Salvation Army, Mission",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1156 Valencia St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1156 Valencia St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "QhYFmv7Qir",
@@ -10415,27 +9639,19 @@
     ]
   },
   {
-    "id": 198,
+    "id": "739fe846de",
     "organization_id": "XT2PW3DCbp",
     "name": "Treasure Island Homeless Development Initiative",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.8273248,
+    "longitude": 37.8273248,
     "physical_address": [
       {
         "id": 198,
-        "organization_id": "XT2PW3DCbp",
-        "name": "Treasure Island Homeless Development Initiative",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "850 Avenue I ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "850 Avenue I ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "YX953K867d",
@@ -10465,27 +9681,19 @@
     ]
   },
   {
-    "id": 205,
+    "id": "73acb2105c",
     "organization_id": "GfJJ1937P7",
     "name": "Visitacion Valley Neighborhood Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.7109012,
+    "longitude": 37.7109012,
     "physical_address": [
       {
         "id": 205,
-        "organization_id": "GfJJ1937P7",
-        "name": "Visitacion Valley Neighborhood Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1099 Sunnydale Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1099 Sunnydale Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "kbLMwguPtr",
@@ -10551,27 +9759,19 @@
     ]
   },
   {
-    "id": 65,
+    "id": "7539fcd14a",
     "organization_id": "MxF4wOBkxo",
     "name": "First Friendship Institutional Baptist Church",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.773933,
+    "longitude": 37.773933,
     "physical_address": [
       {
         "id": 65,
-        "organization_id": "MxF4wOBkxo",
-        "name": "First Friendship Institutional Baptist Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "501 Steiner St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "501 Steiner St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "tRI9YthS9T",
@@ -10601,27 +9801,19 @@
     ]
   },
   {
-    "id": 113,
+    "id": "754f619be7",
     "organization_id": "gc1gN2SwyQ",
     "name": "North East Medical Services - Taraval Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood Clinic",
+    "latitude": 37.7425657,
+    "longitude": 37.7425657,
     "physical_address": [
       {
         "id": 113,
-        "organization_id": "gc1gN2SwyQ",
-        "name": "North East Medical Services - Taraval Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2308 Taraval St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2308 Taraval St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "vcns2R9r7E",
@@ -10732,27 +9924,19 @@
     ]
   },
   {
-    "id": 17,
+    "id": "75d702ef46",
     "organization_id": "d1KXjcYzeo",
     "name": "Bayview TLC Family Resource Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free food pantry",
+    "latitude": 37.7317977,
+    "longitude": 37.7317977,
     "physical_address": [
       {
         "id": 17,
-        "organization_id": "d1KXjcYzeo",
-        "name": "Bayview TLC Family Resource Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1601 Lane St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1601 Lane St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MDodPD3CLS",
@@ -10782,27 +9966,19 @@
     ]
   },
   {
-    "id": 143,
+    "id": "75e85b513f",
     "organization_id": "e2JX5pPOsL",
     "name": "SF Public Library - North Beach Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.8020517,
+    "longitude": 37.8020517,
     "physical_address": [
       {
         "id": 143,
-        "organization_id": "e2JX5pPOsL",
-        "name": "SF Public Library - North Beach Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2000 Mason St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2000 Mason St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Q7yeRs3O4c",
@@ -10877,27 +10053,19 @@
     ]
   },
   {
-    "id": 23,
+    "id": "762bc36690",
     "organization_id": "HlgiDGTihD",
     "name": "Brennan House",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 23,
-        "organization_id": "HlgiDGTihD",
-        "name": "Brennan House",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "53Csw675vN",
@@ -10963,27 +10131,19 @@
     ]
   },
   {
-    "id": 141,
+    "id": "78e9a9d859",
     "organization_id": "ef1iEyfUg6",
     "name": "SF Public Library - Mission Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7519838,
+    "longitude": 37.7519838,
     "physical_address": [
       {
         "id": 141,
-        "organization_id": "ef1iEyfUg6",
-        "name": "SF Public Library - Mission Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "300 Bartlet St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "300 Bartlet St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "QShmTLqAKm",
@@ -11067,27 +10227,19 @@
     ]
   },
   {
-    "id": 64,
+    "id": "7abeda5212",
     "organization_id": "9sGsOsqCW6",
     "name": "Fill up America",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7562963,
+    "longitude": 37.7562963,
     "physical_address": [
       {
         "id": 64,
-        "organization_id": "9sGsOsqCW6",
-        "name": "Fill up America",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1050 S. Van Ness Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1050 S. Van Ness Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "fvP925HxCy",
@@ -11117,27 +10269,19 @@
     ]
   },
   {
-    "id": 210,
+    "id": "7c918c33b9",
     "organization_id": "0zMSfs1bHv",
     "name": "Westside Community Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.772767,
+    "longitude": 37.772767,
     "physical_address": [
       {
         "id": 210,
-        "organization_id": "0zMSfs1bHv",
-        "name": "Westside Community Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1153 Oak Street",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1153 Oak Street",
-    "city": "San Francisco",
     "services": [
       {
         "id": "g5XMNCQK9L",
@@ -11203,27 +10347,19 @@
     ]
   },
   {
-    "id": 104,
+    "id": "7f1a517c82",
     "organization_id": "I9T3s34uRG",
     "name": "Mobile Crisis Treatment Team (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 104,
-        "organization_id": "I9T3s34uRG",
-        "name": "Mobile Crisis Treatment Team (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "oEsf96neWk",
@@ -11307,27 +10443,19 @@
     ]
   },
   {
-    "id": 57,
+    "id": "7f629dedc5",
     "organization_id": "M6u9SqkGXA",
     "name": "Episcopal Community Services - Canon Kip Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Senior multi-service center",
+    "latitude": 37.7763202,
+    "longitude": 37.7763202,
     "physical_address": [
       {
         "id": 57,
-        "organization_id": "M6u9SqkGXA",
-        "name": "Episcopal Community Services - Canon Kip Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "705 Natoma St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "705 Natoma St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "A3ZaEzXyTW",
@@ -11460,27 +10588,19 @@
     ]
   },
   {
-    "id": 90,
+    "id": "81153b757e",
     "organization_id": "AkrryZEGmh",
     "name": "Lava Mae",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Mobile showers and toilet",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 90,
-        "organization_id": "AkrryZEGmh",
-        "name": "Lava Mae",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "roaming",
         "city": "San Francisco"
       }
     ],
-    "address_1": "roaming",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HhIyagFTbL",
@@ -11555,27 +10675,19 @@
     ]
   },
   {
-    "id": 209,
+    "id": "812ce5b4e7",
     "organization_id": "I9rFC8YDYS",
     "name": "Westside Ajani",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "http://www.westside-health.org/programs/ajani-program",
+    "latitude": 37.7731695,
+    "longitude": 37.7731695,
     "physical_address": [
       {
         "id": 209,
-        "organization_id": "I9rFC8YDYS",
-        "name": "Westside Ajani",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1140 Oak",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1140 Oak",
-    "city": "San Francisco",
     "services": [
       {
         "id": "zv9nCOM2bv",
@@ -11641,27 +10753,19 @@
     ]
   },
   {
-    "id": 87,
+    "id": "81b07cffb7",
     "organization_id": "bpCa29KAp9",
     "name": "Lark-Inn for Youth",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Emergency youth shelter",
+    "latitude": 37.7838239,
+    "longitude": 37.7838239,
     "physical_address": [
       {
         "id": 87,
-        "organization_id": "bpCa29KAp9",
-        "name": "Lark-Inn for Youth",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "869 Ellis St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "869 Ellis St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "0sk5pndUMJ",
@@ -11748,27 +10852,19 @@
     ]
   },
   {
-    "id": 156,
+    "id": "8262f19daf",
     "organization_id": "oVb3TaGmUo",
     "name": "SF Public Library - Western Addition Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7841096,
+    "longitude": 37.7841096,
     "physical_address": [
       {
         "id": 156,
-        "organization_id": "oVb3TaGmUo",
-        "name": "SF Public Library - Western Addition Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1550 Scott St.",
         "city": "San Francisco "
       }
     ],
-    "address_1": "1550 Scott St.",
-    "city": "San Francisco ",
     "services": [
       {
         "id": "9KMwAxwA0y",
@@ -11852,27 +10948,19 @@
     ]
   },
   {
-    "id": 116,
+    "id": "833f64db13",
     "organization_id": "TtViHcg0EG",
     "name": "Office of Self Help",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 116,
-        "organization_id": "TtViHcg0EG",
-        "name": "Office of Self Help",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1663 Mission, 3rd Fl, Rm 310",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1663 Mission, 3rd Fl, Rm 310",
-    "city": "San Francisco",
     "services": [
       {
         "id": "zB1m0oiHll",
@@ -11947,27 +11035,19 @@
     ]
   },
   {
-    "id": 128,
+    "id": "848dd67768",
     "organization_id": "FwWFaCShGG",
     "name": "SF Public Library - Anza Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public Library",
+    "latitude": 37.7785234,
+    "longitude": 37.7785234,
     "physical_address": [
       {
         "id": 128,
-        "organization_id": "FwWFaCShGG",
-        "name": "SF Public Library - Anza Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "550 37th Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "550 37th Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "ELVjWmWOM1",
@@ -12042,27 +11122,19 @@
     ]
   },
   {
-    "id": 47,
+    "id": "849184fc0a",
     "organization_id": "Uc1mBkSj32",
     "name": "Crisis Response Team",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 47,
-        "organization_id": "Uc1mBkSj32",
-        "name": "Crisis Response Team",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "XsX617fyNq",
@@ -12146,27 +11218,19 @@
     ]
   },
   {
-    "id": 165,
+    "id": "893e98d249",
     "organization_id": "Q63Fjdmei3",
     "name": "San Francisco General Hospital",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Central Health Center",
+    "latitude": 37.7563054,
+    "longitude": 37.7563054,
     "physical_address": [
       {
         "id": 165,
-        "organization_id": "Q63Fjdmei3",
-        "name": "San Francisco General Hospital",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1001 Potrero Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1001 Potrero Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "GzesjpAzeN",
@@ -12232,27 +11296,19 @@
     ]
   },
   {
-    "id": 49,
+    "id": "89673fecc4",
     "organization_id": "R9V1gB03Dl",
     "name": "Dimensions Clinic for Queer and Questioning Youth",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7630004,
+    "longitude": 37.7630004,
     "physical_address": [
       {
         "id": 49,
-        "organization_id": "R9V1gB03Dl",
-        "name": "Dimensions Clinic for Queer and Questioning Youth",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3850 17th St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3850 17th St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Do1m45btRL",
@@ -12321,27 +11377,19 @@
     ]
   },
   {
-    "id": 0,
+    "id": "8adbe504bb",
     "organization_id": "PgPuCCic6J",
     "name": "24-hour Mental Health /Peer-Counseling LIVE CHAT",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Warm Line chat online: http://www.mentalhealthsf.org/ (24-hour Mental Health Triage/Peer-Counseling LIVE CHAT)",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 0,
-        "organization_id": "PgPuCCic6J",
-        "name": "24-hour Mental Health /Peer-Counseling LIVE CHAT",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "hspNe6IqFE",
@@ -12425,27 +11473,19 @@
     ]
   },
   {
-    "id": 55,
+    "id": "8b27bac56f",
     "organization_id": "f8y0nk5YJO",
     "name": "Edgewood Center for Children and Families-SF",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.737985,
+    "longitude": 37.737985,
     "physical_address": [
       {
         "id": 55,
-        "organization_id": "f8y0nk5YJO",
-        "name": "Edgewood Center for Children and Families-SF",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1801 Vincente",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1801 Vincente",
-    "city": "San Francisco",
     "services": [
       {
         "id": "sOGCDhqXdv",
@@ -12514,27 +11554,19 @@
     ]
   },
   {
-    "id": 115,
+    "id": "8dab127b8e",
     "organization_id": "h1idWne791",
     "name": "Oakes Children’s Center",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.745931,
+    "longitude": 37.745931,
     "physical_address": [
       {
         "id": 115,
-        "organization_id": "h1idWne791",
-        "name": "Oakes Children’s Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1550 Treat",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1550 Treat",
-    "city": "San Francisco",
     "services": [
       {
         "id": "tf7ghfmJdd",
@@ -12603,27 +11635,19 @@
     ]
   },
   {
-    "id": 79,
+    "id": "8db22e4ee7",
     "organization_id": "82AVLZUkaA",
     "name": "In-Home Supportive Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7717165,
+    "longitude": 37.7717165,
     "physical_address": [
       {
         "id": 79,
-        "organization_id": "82AVLZUkaA",
-        "name": "In-Home Supportive Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1650 Mission St., 5th Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1650 Mission St., 5th Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "GiGAydgsol",
@@ -12689,27 +11713,19 @@
     ]
   },
   {
-    "id": 82,
+    "id": "8e1a13086a",
     "organization_id": "4vq5LlgSCf",
     "name": "JVS",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Job search focused computer lab and training center",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 82,
-        "organization_id": "4vq5LlgSCf",
-        "name": "JVS",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "225 Bush St. West Lobby, Suite 400",
         "city": "San Francisco"
       }
     ],
-    "address_1": "225 Bush St. West Lobby, Suite 400",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Q0bKGMvWnS",
@@ -12775,27 +11791,19 @@
     ]
   },
   {
-    "id": 94,
+    "id": "8e60169578",
     "organization_id": "Fbg7ix2GqF",
     "name": "Martin De Porres House of Hospitality",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7666742,
+    "longitude": 37.7666742,
     "physical_address": [
       {
         "id": 94,
-        "organization_id": "Fbg7ix2GqF",
-        "name": "Martin De Porres House of Hospitality",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "225 Potrero Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "225 Potrero Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "4NJjA5PyAc",
@@ -12992,27 +12000,19 @@
     ]
   },
   {
-    "id": 34,
+    "id": "8fd01760d1",
     "organization_id": "CCQJPo9VbK",
     "name": "Central City Hospitality House for Men - Men's Case Management Dormitory",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Case Management Dormitory",
+    "latitude": 37.782538,
+    "longitude": 37.782538,
     "physical_address": [
       {
         "id": 34,
-        "organization_id": "CCQJPo9VbK",
-        "name": "Central City Hospitality House for Men - Men's Case Management Dormitory",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "y94cZveJcn",
@@ -13144,27 +12144,19 @@
     ]
   },
   {
-    "id": 174,
+    "id": "91e7e82da0",
     "organization_id": "p4g1xiQ3ex",
     "name": "Southeast Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7257196,
+    "longitude": 37.7257196,
     "physical_address": [
       {
         "id": 174,
-        "organization_id": "p4g1xiQ3ex",
-        "name": "Southeast Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2401 Keith St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2401 Keith St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "uep9mQ37SW",
@@ -13275,27 +12267,19 @@
     ]
   },
   {
-    "id": 189,
+    "id": "9203be108c",
     "organization_id": "3lMEiaKVVn",
     "name": "Supplemental Food Program",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 189,
-        "organization_id": "3lMEiaKVVn",
-        "name": "Supplemental Food Program",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "gCXvRc63un",
@@ -13315,27 +12299,19 @@
     ]
   },
   {
-    "id": 139,
+    "id": "9218ee2ba4",
     "organization_id": "NxyR8zmsAL",
     "name": "SF Public Library - Merced Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.726712,
+    "longitude": 37.726712,
     "physical_address": [
       {
         "id": 139,
-        "organization_id": "NxyR8zmsAL",
-        "name": "SF Public Library - Merced Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "155 Winston Dr.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "155 Winston Dr.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "jXlCTj9dXV",
@@ -13419,27 +12395,19 @@
     ]
   },
   {
-    "id": 199,
+    "id": "9402979151",
     "organization_id": "1BjKmgl20i",
     "name": "UCSF Alliance Health Project",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "HIV testing",
+    "latitude": 37.7705078,
+    "longitude": 37.7705078,
     "physical_address": [
       {
         "id": 199,
-        "organization_id": "1BjKmgl20i",
-        "name": "UCSF Alliance Health Project",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1930 Market St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1930 Market St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "RilXORE6wJ",
@@ -13566,27 +12534,19 @@
     ]
   },
   {
-    "id": 152,
+    "id": "963229c26b",
     "organization_id": "6hboTZuzxc",
     "name": "SF Public Library - Sunset Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7633632,
+    "longitude": 37.7633632,
     "physical_address": [
       {
         "id": 152,
-        "organization_id": "6hboTZuzxc",
-        "name": "SF Public Library - Sunset Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1305 18th Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1305 18th Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "YA7ILcQehw",
@@ -13670,27 +12630,19 @@
     ]
   },
   {
-    "id": 26,
+    "id": "96f5a26f87",
     "organization_id": "5LPWVS5Ugs",
     "name": "CHANGES: MSC South",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Emergency shelter for single adults",
+    "latitude": 37.7777303,
+    "longitude": 37.7777303,
     "physical_address": [
       {
         "id": 26,
-        "organization_id": "5LPWVS5Ugs",
-        "name": "CHANGES: MSC South",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "525 5th St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "525 5th St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "b31ETRxfPm",
@@ -13914,27 +12866,19 @@
     ]
   },
   {
-    "id": 22,
+    "id": "9878957ccb",
     "organization_id": "cQm06WwPjn",
     "name": "Booker T. Washington Community Svce Ctr.",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free food pantry",
+    "latitude": 37.784109,
+    "longitude": 37.784109,
     "physical_address": [
       {
         "id": 22,
-        "organization_id": "cQm06WwPjn",
-        "name": "Booker T. Washington Community Svce Ctr.",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "800 Presidio Ave. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "800 Presidio Ave. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MslQsUozFZ",
@@ -13964,27 +12908,19 @@
     ]
   },
   {
-    "id": 28,
+    "id": "9d81256b9d",
     "organization_id": "HGPrTvR4Pt",
     "name": "California Pacific Medical Center (CPMC) - Davies Campus",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Hospital",
+    "latitude": 37.7690563,
+    "longitude": 37.7690563,
     "physical_address": [
       {
         "id": 28,
-        "organization_id": "HGPrTvR4Pt",
-        "name": "California Pacific Medical Center (CPMC) - Davies Campus",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "Castro St. and Duboce Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "Castro St. and Duboce Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "CfIBdBirHQ",
@@ -14068,27 +13004,19 @@
     ]
   },
   {
-    "id": 157,
+    "id": "9db31002f4",
     "organization_id": "JpawpHznez",
     "name": "SF VA Downtown Clinic",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7825088,
+    "longitude": 37.7825088,
     "physical_address": [
       {
         "id": 157,
-        "organization_id": "JpawpHznez",
-        "name": "SF VA Downtown Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "401 3rd St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "401 3rd St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "xRD4zv3wDv",
@@ -14154,27 +13082,19 @@
     ]
   },
   {
-    "id": 25,
+    "id": "9fd3211b2b",
     "organization_id": "5cVQI7FbzU",
     "name": "CHANGES: Glide Walk-In Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "For a 90-day bed line up by 7am. For a 1-night bed, apply during the hours listed.",
+    "latitude": 37.7852271,
+    "longitude": 37.7852271,
     "physical_address": [
       {
         "id": 25,
-        "organization_id": "5cVQI7FbzU",
-        "name": "CHANGES: Glide Walk-In Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "330 Ellis St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "330 Ellis St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "BTRWfHVfdX",
@@ -14240,27 +13160,19 @@
     ]
   },
   {
-    "id": 84,
+    "id": "9ff9aebf9f",
     "organization_id": "2lrLTV33vb",
     "name": "Kimochi Nutrition and Hot Meals Program & Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Japanese style hot lunches are prepared and served at Kimochi's nutrition program.",
+    "latitude": 37.7865012,
+    "longitude": 37.7865012,
     "physical_address": [
       {
         "id": 84,
-        "organization_id": "2lrLTV33vb",
-        "name": "Kimochi Nutrition and Hot Meals Program & Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1804 Sutter St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1804 Sutter St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "kP2O3KvsPH",
@@ -14329,27 +13241,19 @@
     ]
   },
   {
-    "id": 54,
+    "id": "a182efea16",
     "organization_id": "sS39Pkkbdz",
     "name": "Edgewood Center for Children and Families-Bayview",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7415419,
+    "longitude": 37.7415419,
     "physical_address": [
       {
         "id": 54,
-        "organization_id": "sS39Pkkbdz",
-        "name": "Edgewood Center for Children and Families-Bayview",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3801 3rd St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3801 3rd St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "d1V14hP9tn",
@@ -14418,27 +13322,19 @@
     ]
   },
   {
-    "id": 13,
+    "id": "a3bdefb915",
     "organization_id": "HssMM1Nmh3",
     "name": "BAART Community Health",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Clinic",
+    "latitude": 37.78222,
+    "longitude": 37.78222,
     "physical_address": [
       {
         "id": 13,
-        "organization_id": "HssMM1Nmh3",
-        "name": "BAART Community Health",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "433 Turk St .",
         "city": "San Francisco"
       }
     ],
-    "address_1": "433 Turk St .",
-    "city": "San Francisco",
     "services": [
       {
         "id": "x8LW3oJa9A",
@@ -14567,27 +13463,19 @@
     ]
   },
   {
-    "id": 59,
+    "id": "a461f708ec",
     "organization_id": "zbG586xHdZ",
     "name": "FSA Geriatric Services (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.779722,
+    "longitude": 37.779722,
     "physical_address": [
       {
         "id": 59,
-        "organization_id": "zbG586xHdZ",
-        "name": "FSA Geriatric Services (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "6221 Geary Blvd",
         "city": "San Francisco"
       }
     ],
-    "address_1": "6221 Geary Blvd",
-    "city": "San Francisco",
     "services": [
       {
         "id": "VjH9UgQ9Kt",
@@ -14656,27 +13544,19 @@
     ]
   },
   {
-    "id": 118,
+    "id": "a59dac5638",
     "organization_id": "rPJqctsth0",
     "name": "Plaza Adelante Tech Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.760087,
+    "longitude": 37.760087,
     "physical_address": [
       {
         "id": 118,
-        "organization_id": "rPJqctsth0",
-        "name": "Plaza Adelante Tech Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2301 Mission St., Suite 203",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2301 Mission St., Suite 203",
-    "city": "San Francisco",
     "services": [
       {
         "id": "sGH6LSwLzd",
@@ -14742,27 +13622,19 @@
     ]
   },
   {
-    "id": 203,
+    "id": "a5cac30c41",
     "organization_id": "L2UKHiqgl3",
     "name": "Vietnamese Elderly Mutual Assistance Center (VEMA)",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Offers resources to seniors (age 60+). Offers exercise classes, activities, and computer assistance as well as ESL classes and translation services in Vietnamese.",
+    "latitude": 37.7863252,
+    "longitude": 37.7863252,
     "physical_address": [
       {
         "id": 203,
-        "organization_id": "L2UKHiqgl3",
-        "name": "Vietnamese Elderly Mutual Assistance Center (VEMA)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "910 Larkin Street",
         "city": "San Francisco"
       }
     ],
-    "address_1": "910 Larkin Street",
-    "city": "San Francisco",
     "services": [
       {
         "id": "IFLR0FhcV5",
@@ -14785,27 +13657,19 @@
     ]
   },
   {
-    "id": 196,
+    "id": "a5e3eaa8c7",
     "organization_id": "BfQ7WcDvh7",
     "name": "Tom Waddell Urban Health - Urgent Care",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Urgent care ",
+    "latitude": 37.7780891,
+    "longitude": 37.7780891,
     "physical_address": [
       {
         "id": 196,
-        "organization_id": "BfQ7WcDvh7",
-        "name": "Tom Waddell Urban Health - Urgent Care",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "50 Ivy St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "50 Ivy St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "O39Vxbq8uC",
@@ -14880,27 +13744,19 @@
     ]
   },
   {
-    "id": 151,
+    "id": "a7700da559",
     "organization_id": "uDPFSwvYZF",
     "name": "SF Public Library - Richmond/Sen. Milton Marks Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7818438,
+    "longitude": 37.7818438,
     "physical_address": [
       {
         "id": 151,
-        "organization_id": "uDPFSwvYZF",
-        "name": "SF Public Library - Richmond/Sen. Milton Marks Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "351 9th Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "351 9th Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Jm68zYcXPp",
@@ -14984,27 +13840,19 @@
     ]
   },
   {
-    "id": 76,
+    "id": "a77a8dbecc",
     "organization_id": "u2zLVxeX59",
     "name": "Huckleberry House",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Shelter for youths aged 11-21 who are not on probation.",
+    "latitude": 37.7717829,
+    "longitude": 37.7717829,
     "physical_address": [
       {
         "id": 76,
-        "organization_id": "u2zLVxeX59",
-        "name": "Huckleberry House",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1292 Page St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1292 Page St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "OwSWokushr",
@@ -15091,51 +13939,35 @@
     ]
   },
   {
-    "id": 9,
+    "id": "a77f30e1e1",
     "organization_id": "wpDHIY0aaf",
     "name": "Adult Protective Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7717165,
+    "longitude": 37.7717165,
     "physical_address": [
       {
         "id": 9,
-        "organization_id": "wpDHIY0aaf",
-        "name": "Adult Protective Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1650 Mission",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1650 Mission",
-    "city": "San Francisco",
     "services": []
   },
   {
-    "id": 8,
+    "id": "a9d20458cc",
     "organization_id": "8A3yaZ8jMk",
     "name": "APA Family Support Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7122594,
+    "longitude": 37.7122594,
     "physical_address": [
       {
         "id": 8,
-        "organization_id": "8A3yaZ8jMk",
-        "name": "APA Family Support Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "50 Raymond St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "50 Raymond St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Bnu280xp58",
@@ -15201,27 +14033,19 @@
     ]
   },
   {
-    "id": 129,
+    "id": "ab67d11af4",
     "organization_id": "eo1kVqaMFF",
     "name": "SF Public Library - Bayview Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public Library",
+    "latitude": 37.7325399,
+    "longitude": 37.7325399,
     "physical_address": [
       {
         "id": 129,
-        "organization_id": "eo1kVqaMFF",
-        "name": "SF Public Library - Bayview Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "5075 Third St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "5075 Third St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "YanFqq5vEo",
@@ -15305,27 +14129,19 @@
     ]
   },
   {
-    "id": 42,
+    "id": "acd620b2e4",
     "organization_id": "dMVzwM0lpH",
     "name": "Church of God Prophecy",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Persons living in 94124. Apply on Wednesdays at 11:20 am",
+    "latitude": 37.7221654,
+    "longitude": 37.7221654,
     "physical_address": [
       {
         "id": 42,
-        "organization_id": "dMVzwM0lpH",
-        "name": "Church of God Prophecy",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "6212 Third St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "6212 Third St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "zXZRCHH2mi",
@@ -15345,27 +14161,19 @@
     ]
   },
   {
-    "id": 188,
+    "id": "ae99bb298c",
     "organization_id": "y0w53zc4Tw",
     "name": "Sunset Mental Health Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7491215,
+    "longitude": 37.7491215,
     "physical_address": [
       {
         "id": 188,
-        "organization_id": "y0w53zc4Tw",
-        "name": "Sunset Mental Health Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1990 41st Ave",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1990 41st Ave",
-    "city": "San Francisco",
     "services": [
       {
         "id": "oYeAgLlagI",
@@ -15431,27 +14239,19 @@
     ]
   },
   {
-    "id": 68,
+    "id": "afcf87f44b",
     "organization_id": "1RdORPgDD8",
     "name": "Glide Memorial Church",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.785151,
+    "longitude": 37.785151,
     "physical_address": [
       {
         "id": 68,
-        "organization_id": "1RdORPgDD8",
-        "name": "Glide Memorial Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "330 Ellis St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "330 Ellis St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "buTWqDLmGm",
@@ -15643,27 +14443,19 @@
     ]
   },
   {
-    "id": 108,
+    "id": "afd5e9c3c8",
     "organization_id": "XDLtORFwTt",
     "name": "North East Medical Services - Chinatown Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7999174,
+    "longitude": 37.7999174,
     "physical_address": [
       {
         "id": 108,
-        "organization_id": "XDLtORFwTt",
-        "name": "North East Medical Services - Chinatown Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1520 Stockton St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1520 Stockton St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "XOMMvThIbZ",
@@ -15747,27 +14539,19 @@
     ]
   },
   {
-    "id": 158,
+    "id": "b0807dc94f",
     "organization_id": "RwJFErM2IV",
     "name": "SF Women Against Rape",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.76142,
+    "longitude": 37.76142,
     "physical_address": [
       {
         "id": 158,
-        "organization_id": "RwJFErM2IV",
-        "name": "SF Women Against Rape",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3543 18th St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3543 18th St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "L8oP2H5Xy3",
@@ -15833,27 +14617,19 @@
     ]
   },
   {
-    "id": 14,
+    "id": "b1600feab2",
     "organization_id": "UJ3VxPPuZr",
     "name": "Bay Area Video Coalition (BAVC)",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Media and technology trainings for youth and adults",
+    "latitude": 37.7628656,
+    "longitude": 37.7628656,
     "physical_address": [
       {
         "id": 14,
-        "organization_id": "UJ3VxPPuZr",
-        "name": "Bay Area Video Coalition (BAVC)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2727 Mariposa St., 2nd Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2727 Mariposa St., 2nd Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HlH1NHAsap",
@@ -15919,27 +14695,19 @@
     ]
   },
   {
-    "id": 89,
+    "id": "b1aa8a33fb",
     "organization_id": "iPmMJ6vuP3",
     "name": "Larkin Street Youth Services: Diamond Youth Shelter ",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Youth shelter and drop-in center",
+    "latitude": 37.774724,
+    "longitude": 37.774724,
     "physical_address": [
       {
         "id": 89,
-        "organization_id": "iPmMJ6vuP3",
-        "name": "Larkin Street Youth Services: Diamond Youth Shelter ",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "536 Central Ave. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "536 Central Ave. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "pR6z5cwrJK",
@@ -16089,27 +14857,19 @@
     ]
   },
   {
-    "id": 148,
+    "id": "b397931129",
     "organization_id": "5qkFCmdyru",
     "name": "SF Public Library - Portola Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7270985,
+    "longitude": 37.7270985,
     "physical_address": [
       {
         "id": 148,
-        "organization_id": "5qkFCmdyru",
-        "name": "SF Public Library - Portola Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "380 Bacon St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "380 Bacon St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Lba6tKbmtK",
@@ -16193,27 +14953,19 @@
     ]
   },
   {
-    "id": 91,
+    "id": "b40fc9ee02",
     "organization_id": "Jt0KrEp4JB",
     "name": "Lavender Youth Recreation Information Center (LYRIC)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.761902,
+    "longitude": 37.761902,
     "physical_address": [
       {
         "id": 91,
-        "organization_id": "Jt0KrEp4JB",
-        "name": "Lavender Youth Recreation Information Center (LYRIC)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "27 Collingwood",
         "city": "San Francisco"
       }
     ],
-    "address_1": "27 Collingwood",
-    "city": "San Francisco",
     "services": [
       {
         "id": "hp3EjP71Hl",
@@ -16282,27 +15034,19 @@
     ]
   },
   {
-    "id": 120,
+    "id": "b41bc5e15e",
     "organization_id": "QjNbL2afVL",
     "name": "Project Open Hand",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Food pantry",
+    "latitude": 37.7837216,
+    "longitude": 37.7837216,
     "physical_address": [
       {
         "id": 120,
-        "organization_id": "QjNbL2afVL",
-        "name": "Project Open Hand",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "730 Polk St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "730 Polk St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "umYHEA3aQ2",
@@ -16368,27 +15112,19 @@
     ]
   },
   {
-    "id": 7,
+    "id": "b7521fcaa5",
     "organization_id": "Mk2J4mUsKA",
     "name": "APA Family Support Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7977296,
+    "longitude": 37.7977296,
     "physical_address": [
       {
         "id": 7,
-        "organization_id": "Mk2J4mUsKA",
-        "name": "APA Family Support Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "10 Nottingham Pl.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "10 Nottingham Pl.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "3sDZEoz4bX",
@@ -16454,27 +15190,19 @@
     ]
   },
   {
-    "id": 33,
+    "id": "b77677ed46",
     "organization_id": "lwdJ9heslY",
     "name": "Center for Domestic Peace",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 33,
-        "organization_id": "lwdJ9heslY",
-        "name": "Center for Domestic Peace",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "R3C1nHQGPS",
@@ -16558,27 +15286,19 @@
     ]
   },
   {
-    "id": 213,
+    "id": "b845a0b7e0",
     "organization_id": "sJe2FT0AlD",
     "name": "Women's Building",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7620384,
+    "longitude": 37.7620384,
     "physical_address": [
       {
         "id": 213,
-        "organization_id": "sJe2FT0AlD",
-        "name": "Women's Building",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "18th St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "18th St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "jKhrLFcbqZ",
@@ -16669,27 +15389,19 @@
     ]
   },
   {
-    "id": 124,
+    "id": "be721b0419",
     "organization_id": "0j0Pzq8wQP",
     "name": "Psychiatric Emergency Services at SF General Hospital",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 124,
-        "organization_id": "0j0Pzq8wQP",
-        "name": "Psychiatric Emergency Services at SF General Hospital",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "I84q9X8sL8",
@@ -16773,27 +15485,19 @@
     ]
   },
   {
-    "id": 137,
+    "id": "bec8eca313",
     "organization_id": "KJBxTbwfAq",
     "name": "SF Public Library - Main Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public Library",
+    "latitude": 37.7791156,
+    "longitude": 37.7791156,
     "physical_address": [
       {
         "id": 137,
-        "organization_id": "KJBxTbwfAq",
-        "name": "SF Public Library - Main Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "100 Larkin St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "100 Larkin St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "dFfmXYDY4j",
@@ -16877,27 +15581,19 @@
     ]
   },
   {
-    "id": 204,
+    "id": "bf8bb920bf",
     "organization_id": "sm5YJ7cZDa",
     "name": "Vietnamese Youth Development Center",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7843658,
+    "longitude": 37.7843658,
     "physical_address": [
       {
         "id": 204,
-        "organization_id": "sm5YJ7cZDa",
-        "name": "Vietnamese Youth Development Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "166 Eddy",
         "city": "San Francisco"
       }
     ],
-    "address_1": "166 Eddy",
-    "city": "San Francisco",
     "services": [
       {
         "id": "EMmhmqGpXZ",
@@ -16966,27 +15662,19 @@
     ]
   },
   {
-    "id": 194,
+    "id": "c1506e4c25",
     "organization_id": "V2RsZF8Q52",
     "name": "Tenderloin Self-Help Center (Hospitality House)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.782538,
+    "longitude": 37.782538,
     "physical_address": [
       {
         "id": 194,
-        "organization_id": "V2RsZF8Q52",
-        "name": "Tenderloin Self-Help Center (Hospitality House)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "146 Leavenworth St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "146 Leavenworth St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "mGNTXXdYnX",
@@ -17061,27 +15749,19 @@
     ]
   },
   {
-    "id": 81,
+    "id": "c1e1a85bdd",
     "organization_id": "3xNHK3DbcV",
     "name": "Instituto Familiar de La Raza (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7502618,
+    "longitude": 37.7502618,
     "physical_address": [
       {
         "id": 81,
-        "organization_id": "3xNHK3DbcV",
-        "name": "Instituto Familiar de La Raza (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2919 Mission",
         "city": "San Francisco"
       }
     ],
-    "address_1": "2919 Mission",
-    "city": "San Francisco",
     "services": [
       {
         "id": "XbUPm6Itr0",
@@ -17156,27 +15836,19 @@
     ]
   },
   {
-    "id": 212,
+    "id": "c30ae68f4e",
     "organization_id": "OxDGvSRZ8m",
     "name": "Wohlford Family Clinic at the Good Samaritan Family Resource Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Sexual and reproductive health clinic",
+    "latitude": 37.7518895,
+    "longitude": 37.7518895,
     "physical_address": [
       {
         "id": 212,
-        "organization_id": "OxDGvSRZ8m",
-        "name": "Wohlford Family Clinic at the Good Samaritan Family Resource Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1294 Potrero Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1294 Potrero Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "1nM127C4PQ",
@@ -17215,27 +15887,19 @@
     ]
   },
   {
-    "id": 133,
+    "id": "c3ad768227",
     "organization_id": "h2Z5MlTmbt",
     "name": "SF Public Library - Excelsior Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7271271,
+    "longitude": 37.7271271,
     "physical_address": [
       {
         "id": 133,
-        "organization_id": "h2Z5MlTmbt",
-        "name": "SF Public Library - Excelsior Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "4400 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "4400 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "wCKL9P7Zdu",
@@ -17319,27 +15983,19 @@
     ]
   },
   {
-    "id": 123,
+    "id": "c3b01f0484",
     "organization_id": "W2W8c26zEh",
     "name": "Providence Foundation of SF",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Free meal",
+    "latitude": 37.735808,
+    "longitude": 37.735808,
     "physical_address": [
       {
         "id": 123,
-        "organization_id": "W2W8c26zEh",
-        "name": "Providence Foundation of SF",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1601 McKinnon Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1601 McKinnon Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "08A4g746IL",
@@ -17369,27 +16025,19 @@
     ]
   },
   {
-    "id": 101,
+    "id": "c3c7b7bf08",
     "organization_id": "QaHb8kEHWb",
     "name": "Mission Neighborhood Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.7647523,
+    "longitude": 37.7647523,
     "physical_address": [
       {
         "id": 101,
-        "organization_id": "QaHb8kEHWb",
-        "name": "Mission Neighborhood Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "240 Shotwell St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "240 Shotwell St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "IkRMyBtR22",
@@ -17455,27 +16103,19 @@
     ]
   },
   {
-    "id": 77,
+    "id": "c40556b744",
     "organization_id": "Zgu5GarRfU",
     "name": "Huckleberry's Cole Street Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Youth medical clinic: Ages 12 - 24",
+    "latitude": 37.7698706,
+    "longitude": 37.7698706,
     "physical_address": [
       {
         "id": 77,
-        "organization_id": "Zgu5GarRfU",
-        "name": "Huckleberry's Cole Street Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "555 Cole St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "555 Cole St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "DqDzqVakzR",
@@ -17544,27 +16184,19 @@
     ]
   },
   {
-    "id": 214,
+    "id": "c45c4d39b2",
     "organization_id": "MTp4HuHTGI",
     "name": "Women's Community Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Women's clinic",
+    "latitude": 37.786489,
+    "longitude": 37.786489,
     "physical_address": [
       {
         "id": 214,
-        "organization_id": "MTp4HuHTGI",
-        "name": "Women's Community Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1833 Fillmore St., 3rd floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1833 Fillmore St., 3rd floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "e1pmda2ZZB",
@@ -17639,27 +16271,19 @@
     ]
   },
   {
-    "id": 185,
+    "id": "c74a7eb215",
     "organization_id": "pD7mcHq82T",
     "name": "St. Vincent de Paul Society - Riley Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Shelter for battered women",
+    "latitude": 37.7767023,
+    "longitude": 37.7767023,
     "physical_address": [
       {
         "id": 185,
-        "organization_id": "pD7mcHq82T",
-        "name": "St. Vincent de Paul Society - Riley Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1175 Howard St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1175 Howard St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "mdYEN7de1J",
@@ -17768,27 +16392,19 @@
     ]
   },
   {
-    "id": 80,
+    "id": "c7f00eb39d",
     "organization_id": "TNffKe5nkk",
     "name": "Institute on Aging Friendship Line",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 80,
-        "organization_id": "TNffKe5nkk",
-        "name": "Institute on Aging Friendship Line",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Gvq9cjahFA",
@@ -17857,27 +16473,19 @@
     ]
   },
   {
-    "id": 2,
+    "id": "c823aa1a0e",
     "organization_id": "B37rpBxM1h",
     "name": "30th Street Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center\r\nPrivate Notes only",
+    "latitude": 37.741861,
+    "longitude": 37.741861,
     "physical_address": [
       {
         "id": 2,
-        "organization_id": "B37rpBxM1h",
-        "name": "30th Street Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "225 30th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "225 30th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "aQjO7pqZv4",
@@ -17955,27 +16563,19 @@
     ]
   },
   {
-    "id": 191,
+    "id": "c86f11c985",
     "organization_id": "tjOGvuSSnp",
     "name": "TALK Line (Telephone Aid in Living with Kids)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7681867,
+    "longitude": 37.7681867,
     "physical_address": [
       {
         "id": 191,
-        "organization_id": "tjOGvuSSnp",
-        "name": "TALK Line (Telephone Aid in Living with Kids)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1757 Waller St",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1757 Waller St",
-    "city": "San Francisco",
     "services": [
       {
         "id": "iFEg14Cklr",
@@ -18032,27 +16632,19 @@
     ]
   },
   {
-    "id": 164,
+    "id": "ca7bcc9cec",
     "organization_id": "2ELU6lVwKu",
     "name": "San Francisco Free Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Medical Clinic",
+    "latitude": 37.7845861,
+    "longitude": 37.7845861,
     "physical_address": [
       {
         "id": 164,
-        "organization_id": "2ELU6lVwKu",
-        "name": "San Francisco Free Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "4900 California St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "4900 California St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "er6YvSMKZM",
@@ -18118,27 +16710,19 @@
     ]
   },
   {
-    "id": 41,
+    "id": "cc327d71da",
     "organization_id": "x8J2If5AbQ",
     "name": "Chinatown North Beach Mental Health Services (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.8008705,
+    "longitude": 37.8008705,
     "physical_address": [
       {
         "id": 41,
-        "organization_id": "x8J2If5AbQ",
-        "name": "Chinatown North Beach Mental Health Services (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "729 Filbert",
         "city": "San Francisco"
       }
     ],
-    "address_1": "729 Filbert",
-    "city": "San Francisco",
     "services": [
       {
         "id": "aM7o0ZSyNg",
@@ -18204,27 +16788,19 @@
     ]
   },
   {
-    "id": 20,
+    "id": "cc3a43ebe0",
     "organization_id": "mUUDgdQQqs",
     "name": "Bethel Ame Church",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Interfaith Emergency Winter Shelter",
+    "latitude": 37.779931,
+    "longitude": 37.779931,
     "physical_address": [
       {
         "id": 20,
-        "organization_id": "mUUDgdQQqs",
-        "name": "Bethel Ame Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "916 Laguna St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "916 Laguna St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HAXyfAWBrN",
@@ -18371,27 +16947,19 @@
     ]
   },
   {
-    "id": 63,
+    "id": "cc776ea2bf",
     "organization_id": "b56QFvAKZl",
     "name": "Ferguson Place",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.781571,
+    "longitude": 37.781571,
     "physical_address": [
       {
         "id": 63,
-        "organization_id": "b56QFvAKZl",
-        "name": "Ferguson Place",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1249 Scott Street",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1249 Scott Street",
-    "city": "San Francisco",
     "services": [
       {
         "id": "OQ9b1OMORo",
@@ -18460,27 +17028,19 @@
     ]
   },
   {
-    "id": 187,
+    "id": "cf1705415f",
     "organization_id": "AGyJfnOM3y",
     "name": "Suicide Prevention",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 187,
-        "organization_id": "AGyJfnOM3y",
-        "name": "Suicide Prevention",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "San Francisco",
         "city": "San Francisco"
       }
     ],
-    "address_1": "San Francisco",
-    "city": "San Francisco",
     "services": [
       {
         "id": "CADSZKzw63",
@@ -18564,27 +17124,19 @@
     ]
   },
   {
-    "id": 147,
+    "id": "d01f897525",
     "organization_id": "MH7mxccl5M",
     "name": "SF Public Library - Parkside Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7431358,
+    "longitude": 37.7431358,
     "physical_address": [
       {
         "id": 147,
-        "organization_id": "MH7mxccl5M",
-        "name": "SF Public Library - Parkside Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1200 Taraval St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1200 Taraval St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "iDirGmE4H4",
@@ -18659,27 +17211,19 @@
     ]
   },
   {
-    "id": 175,
+    "id": "d047f710b3",
     "organization_id": "17U9PN9HTp",
     "name": "Southeast-Mission Geriatric Services (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7350774,
+    "longitude": 37.7350774,
     "physical_address": [
       {
         "id": 175,
-        "organization_id": "17U9PN9HTp",
-        "name": "Southeast-Mission Geriatric Services (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "3905 Mission",
         "city": "San Francisco"
       }
     ],
-    "address_1": "3905 Mission",
-    "city": "San Francisco",
     "services": [
       {
         "id": "VrPJdMLFxe",
@@ -18748,27 +17292,19 @@
     ]
   },
   {
-    "id": 169,
+    "id": "d147d64a74",
     "organization_id": "tK9lBZuAf7",
     "name": "South of Market Health Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Central Health Center",
+    "latitude": 37.7776074,
+    "longitude": 37.7776074,
     "physical_address": [
       {
         "id": 169,
-        "organization_id": "tK9lBZuAf7",
-        "name": "South of Market Health Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "229 7th St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "229 7th St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "dnOrJIy3QJ",
@@ -18843,27 +17379,19 @@
     ]
   },
   {
-    "id": 73,
+    "id": "d4c2c2f11b",
     "organization_id": "qG5pLroibi",
     "name": "HealthRIGHT 360 - Clayton Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Medical clinic",
+    "latitude": 37.7699856,
+    "longitude": 37.7699856,
     "physical_address": [
       {
         "id": 73,
-        "organization_id": "qG5pLroibi",
-        "name": "HealthRIGHT 360 - Clayton Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "558 Clayton St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "558 Clayton St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "HrG87HkmfR",
@@ -18977,27 +17505,19 @@
     ]
   },
   {
-    "id": 72,
+    "id": "d4c347eb88",
     "organization_id": "eosANwRtyM",
     "name": "Hamilton Family Emergency Shelter",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Emergency Family Shelter",
+    "latitude": 37.782011,
+    "longitude": 37.782011,
     "physical_address": [
       {
         "id": 72,
-        "organization_id": "eosANwRtyM",
-        "name": "Hamilton Family Emergency Shelter",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "260 Golden Gate Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "260 Golden Gate Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "n9YUO9LJd0",
@@ -19108,27 +17628,19 @@
     ]
   },
   {
-    "id": 167,
+    "id": "d5ad447b5f",
     "organization_id": "ei4q8LDshD",
     "name": "Shanti",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7837216,
+    "longitude": 37.7837216,
     "physical_address": [
       {
         "id": 167,
-        "organization_id": "ei4q8LDshD",
-        "name": "Shanti",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "730 Polk, 3rd Flr",
         "city": "San Francisco"
       }
     ],
-    "address_1": "730 Polk, 3rd Flr",
-    "city": "San Francisco",
     "services": [
       {
         "id": "WYbDjg9oK0",
@@ -19194,27 +17706,19 @@
     ]
   },
   {
-    "id": 144,
+    "id": "d880b11b91",
     "organization_id": "NnocHXjZmh",
     "name": "SF Public Library - Ocean View Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7141383,
+    "longitude": 37.7141383,
     "physical_address": [
       {
         "id": 144,
-        "organization_id": "NnocHXjZmh",
-        "name": "SF Public Library - Ocean View Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "345 Randolph St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "345 Randolph St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "MLitVuHwKp",
@@ -19289,27 +17793,19 @@
     ]
   },
   {
-    "id": 10,
+    "id": "d9581a8235",
     "organization_id": "Roe0vxtsqJ",
     "name": "Adult Protective Services",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7717165,
+    "longitude": 37.7717165,
     "physical_address": [
       {
         "id": 10,
-        "organization_id": "Roe0vxtsqJ",
-        "name": "Adult Protective Services",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1650 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1650 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "NB5cr4OHNj",
@@ -19375,27 +17871,19 @@
     ]
   },
   {
-    "id": 134,
+    "id": "d9b15de0bc",
     "organization_id": "cyvIo6eXj1",
     "name": "SF Public Library - Glen Park Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7339686,
+    "longitude": 37.7339686,
     "physical_address": [
       {
         "id": 134,
-        "organization_id": "cyvIo6eXj1",
-        "name": "SF Public Library - Glen Park Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "2825 Diamond St.",
         "city": "San Franicsco"
       }
     ],
-    "address_1": "2825 Diamond St.",
-    "city": "San Franicsco",
     "services": [
       {
         "id": "gTcWWkhsbB",
@@ -19479,27 +17967,19 @@
     ]
   },
   {
-    "id": 48,
+    "id": "daa6981f08",
     "organization_id": "glb4GwWHaZ",
     "name": "Curry Senior Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Multi-service center",
+    "latitude": 37.7825816,
+    "longitude": 37.7825816,
     "physical_address": [
       {
         "id": 48,
-        "organization_id": "glb4GwWHaZ",
-        "name": "Curry Senior Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "mtpXY5kemg",
@@ -19777,27 +18257,19 @@
     ]
   },
   {
-    "id": 181,
+    "id": "db93cd2022",
     "organization_id": "OVnn6QTyxl",
     "name": "St. James Infirmary",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Health and safety clinic for sex workers and their families",
+    "latitude": 37.7757837,
+    "longitude": 37.7757837,
     "physical_address": [
       {
         "id": 181,
-        "organization_id": "OVnn6QTyxl",
-        "name": "St. James Infirmary",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1372 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1372 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "t7zpL0j66x",
@@ -19863,27 +18335,19 @@
     ]
   },
   {
-    "id": 11,
+    "id": "dd6c7c92a2",
     "organization_id": "BIJtFzxaCV",
     "name": "Arriba Juntos",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Single service center",
+    "latitude": 37.767348,
+    "longitude": 37.767348,
     "physical_address": [
       {
         "id": 11,
-        "organization_id": "BIJtFzxaCV",
-        "name": "Arriba Juntos",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1850 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1850 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "xacwmpQd17",
@@ -19949,27 +18413,19 @@
     ]
   },
   {
-    "id": 75,
+    "id": "ddefdc1e9b",
     "organization_id": "ecJJ00xEKX",
     "name": "Hospitality House - Sixth Street Self-Help Center",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Drop-in Center",
+    "latitude": 37.780208,
+    "longitude": 37.780208,
     "physical_address": [
       {
         "id": 75,
-        "organization_id": "ecJJ00xEKX",
-        "name": "Hospitality House - Sixth Street Self-Help Center",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "169 6th St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "169 6th St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "R8GvAcjZjD",
@@ -20044,27 +18500,19 @@
     ]
   },
   {
-    "id": 138,
+    "id": "de6053c4dc",
     "organization_id": "MN0eLZQnxU",
     "name": "SF Public Library - Marina Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.8013195,
+    "longitude": 37.8013195,
     "physical_address": [
       {
         "id": 138,
-        "organization_id": "MN0eLZQnxU",
-        "name": "SF Public Library - Marina Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1890 Chestnut St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1890 Chestnut St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "Z7nd6PYSYR",
@@ -20148,27 +18596,19 @@
     ]
   },
   {
-    "id": 46,
+    "id": "e21675ece2",
     "organization_id": "mA1p5Mm4xv",
     "name": "Comprehensive Access Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Technology access",
+    "latitude": 37.7743989,
+    "longitude": 37.7743989,
     "physical_address": [
       {
         "id": 46,
-        "organization_id": "mA1p5Mm4xv",
-        "name": "Comprehensive Access Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1500 Mission St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1500 Mission St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "aEyNf0FfPa",
@@ -20234,27 +18674,19 @@
     ]
   },
   {
-    "id": 61,
+    "id": "e2cc7c89fb",
     "organization_id": "UEgUlw5bH8",
     "name": "Family Mosaic Project (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7399459,
+    "longitude": 37.7399459,
     "physical_address": [
       {
         "id": 61,
-        "organization_id": "UEgUlw5bH8",
-        "name": "Family Mosaic Project (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1309 Evans",
         "city": "SanFrancisco"
       }
     ],
-    "address_1": "1309 Evans",
-    "city": "SanFrancisco",
     "services": [
       {
         "id": "kkTxe0EOQo",
@@ -20323,27 +18755,19 @@
     ]
   },
   {
-    "id": 4,
+    "id": "e452a5e1ef",
     "organization_id": "eI4ZqEoUWb",
     "name": "A Woman’s Place",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Community Awareness & Treatment Services, Inc. (CATS)\r\nThe only 24-hour supportive shelter in San Francisco offering long-term treatment programs to women and transgender women with special needs due to mental disabilities, sexual or domestic violence, drug and alcohol abuse, and HIV+/AIDS-related issues. Special programs include a senior shelter program, an 18-month transitional housing program, the CARE program primarily for African American women and transgender women with HIV, and a substance abuse treatment program.\r\nshelter",
+    "latitude": 37.7786413,
+    "longitude": 37.7786413,
     "physical_address": [
       {
         "id": 4,
-        "organization_id": "eI4ZqEoUWb",
-        "name": "A Woman’s Place",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "lI1v4b7zRw",
@@ -20430,27 +18854,19 @@
     ]
   },
   {
-    "id": 172,
+    "id": "e4b086044e",
     "organization_id": "8dwA2QexAU",
     "name": "Southeast Child Family Therapy Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7323381,
+    "longitude": 37.7323381,
     "physical_address": [
       {
         "id": 172,
-        "organization_id": "8dwA2QexAU",
-        "name": "Southeast Child Family Therapy Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1525 Silver Ave",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1525 Silver Ave",
-    "city": "San Francisco",
     "services": [
       {
         "id": "DAsdzkYCJ6",
@@ -20519,27 +18935,19 @@
     ]
   },
   {
-    "id": 202,
+    "id": "e6c22f5a50",
     "organization_id": "L4EMWMF42n",
     "name": "Vet Center (VA Readjustment Counseling Service)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.781469,
+    "longitude": 37.781469,
     "physical_address": [
       {
         "id": 202,
-        "organization_id": "L4EMWMF42n",
-        "name": "Vet Center (VA Readjustment Counseling Service)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "505 Polk",
         "city": "San Francisco"
       }
     ],
-    "address_1": "505 Polk",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8P8TQatYWA",
@@ -20605,27 +19013,19 @@
     ]
   },
   {
-    "id": 60,
+    "id": "e71b4e5e14",
     "organization_id": "k3vti7RKu1",
     "name": "FSA Geriatric Services (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7885212,
+    "longitude": 37.7885212,
     "physical_address": [
       {
         "id": 60,
-        "organization_id": "k3vti7RKu1",
-        "name": "FSA Geriatric Services (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1500 Franklin",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1500 Franklin",
-    "city": "San Francisco",
     "services": [
       {
         "id": "uwgICHM17v",
@@ -20694,27 +19094,19 @@
     ]
   },
   {
-    "id": 83,
+    "id": "e90fd80693",
     "organization_id": "DWR3YJqz9z",
     "name": "Jones Memorial United Methodist Church",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.784805,
+    "longitude": 37.784805,
     "physical_address": [
       {
         "id": 83,
-        "organization_id": "DWR3YJqz9z",
-        "name": "Jones Memorial United Methodist Church",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1975 POST ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1975 POST ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "8RhMn4skh1",
@@ -20734,27 +19126,19 @@
     ]
   },
   {
-    "id": 127,
+    "id": "e941729bb6",
     "organization_id": "sWjb0eTYhz",
     "name": "SF AIDS Foundation",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7813507,
+    "longitude": 37.7813507,
     "physical_address": [
       {
         "id": 127,
-        "organization_id": "sWjb0eTYhz",
-        "name": "SF AIDS Foundation",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1035 Market St, 4th Floor",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1035 Market St, 4th Floor",
-    "city": "San Francisco",
     "services": [
       {
         "id": "TKNSbSz0BZ",
@@ -20823,27 +19207,19 @@
     ]
   },
   {
-    "id": 45,
+    "id": "eaeb980add",
     "organization_id": "akAkFBRtjh",
     "name": "Compass Connecting Point",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Centralized telephone intake for for family shelters. Plus drop-in at 995 Market St., 5th Floor, during office hours.",
+    "latitude": 37.7821874,
+    "longitude": 37.7821874,
     "physical_address": [
       {
         "id": 45,
-        "organization_id": "akAkFBRtjh",
-        "name": "Compass Connecting Point",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "",
         "city": "San Francisco"
       }
     ],
-    "address_1": "",
-    "city": "San Francisco",
     "services": [
       {
         "id": "u5VRmAF98n",
@@ -20945,27 +19321,19 @@
     ]
   },
   {
-    "id": 88,
+    "id": "eb1359d601",
     "organization_id": "RR6S1VnUfJ",
     "name": "Larkin Street Youth Clinic",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Youth medical clinic",
+    "latitude": 37.7879416,
+    "longitude": 37.7879416,
     "physical_address": [
       {
         "id": 88,
-        "organization_id": "RR6S1VnUfJ",
-        "name": "Larkin Street Youth Clinic",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1138 Sutter St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1138 Sutter St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "LbV5QvuZCQ",
@@ -21079,27 +19447,19 @@
     ]
   },
   {
-    "id": 206,
+    "id": "ebd32db7f5",
     "organization_id": "1YEg1Nq9wG",
     "name": "WOMAN, Inc.",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7676456,
+    "longitude": 37.7676456,
     "physical_address": [
       {
         "id": 206,
-        "organization_id": "1YEg1Nq9wG",
-        "name": "WOMAN, Inc.",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "333 Valencia, Suite 450",
         "city": "San Francisco"
       }
     ],
-    "address_1": "333 Valencia, Suite 450",
-    "city": "San Francisco",
     "services": [
       {
         "id": "x6gnhq06c1",
@@ -21183,27 +19543,19 @@
     ]
   },
   {
-    "id": 132,
+    "id": "ee8480592e",
     "organization_id": "A7oYBpUTPX",
     "name": "SF Public Library - Eureka Valley/Harvey Milk Memorial Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Public library",
+    "latitude": 37.7640815,
+    "longitude": 37.7640815,
     "physical_address": [
       {
         "id": 132,
-        "organization_id": "A7oYBpUTPX",
-        "name": "SF Public Library - Eureka Valley/Harvey Milk Memorial Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1 Jose Sarria Ct.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1 Jose Sarria Ct.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "13iEbcjfM6",
@@ -21278,27 +19630,19 @@
     ]
   },
   {
-    "id": 58,
+    "id": "f17fc4e1f0",
     "organization_id": "lt8MRAxlIB",
     "name": "Episcopal Community Services - Next Door Shelter",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "24-hour shelter for adults",
+    "latitude": 37.7861525,
+    "longitude": 37.7861525,
     "physical_address": [
       {
         "id": 58,
-        "organization_id": "lt8MRAxlIB",
-        "name": "Episcopal Community Services - Next Door Shelter",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1001 Polk St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1001 Polk St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "G3tYqIOhI1",
@@ -21385,27 +19729,19 @@
     ]
   },
   {
-    "id": 5,
+    "id": "f256be59fa",
     "organization_id": "arh9IjDms3",
     "name": "A Womens Place",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Showers",
+    "latitude": 37.7698755,
+    "longitude": 37.7698755,
     "physical_address": [
       {
         "id": 5,
-        "organization_id": "arh9IjDms3",
-        "name": "A Womens Place",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "211 13th St.",
         "city": "San Francisco, CA"
       }
     ],
-    "address_1": "211 13th St.",
-    "city": "San Francisco, CA",
     "services": [
       {
         "id": "TnJQDkmioa",
@@ -21471,27 +19807,19 @@
     ]
   },
   {
-    "id": 117,
+    "id": "f47ebc1e43",
     "organization_id": "7BmgQoTFAa",
     "name": "Our Lady of Lourdes",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7336387,
+    "longitude": 37.7336387,
     "physical_address": [
       {
         "id": 117,
-        "organization_id": "7BmgQoTFAa",
-        "name": "Our Lady of Lourdes",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "410 Hawes",
         "city": "San Francisco"
       }
     ],
-    "address_1": "410 Hawes",
-    "city": "San Francisco",
     "services": [
       {
         "id": "knCzO9vDJr",
@@ -21521,27 +19849,19 @@
     ]
   },
   {
-    "id": 159,
+    "id": "f5aa81ff0d",
     "organization_id": "apXDWQpQfa",
     "name": "Salvation Army Chinatown",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "food pantry",
+    "latitude": 37.7980501,
+    "longitude": 37.7980501,
     "physical_address": [
       {
         "id": 159,
-        "organization_id": "apXDWQpQfa",
-        "name": "Salvation Army Chinatown",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "1450 Powell St.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "1450 Powell St.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "RcFmurerym",
@@ -21571,27 +19891,19 @@
     ]
   },
   {
-    "id": 50,
+    "id": "f5d2e5e512",
     "organization_id": "pTGMV9Ysq8",
     "name": "Dore Urgent Care",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7736712,
+    "longitude": 37.7736712,
     "physical_address": [
       {
         "id": 50,
-        "organization_id": "pTGMV9Ysq8",
-        "name": "Dore Urgent Care",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "52 Dore",
         "city": "San Francisco"
       }
     ],
-    "address_1": "52 Dore",
-    "city": "San Francisco",
     "services": [
       {
         "id": "rjIwYMM7Gf",
@@ -21657,27 +19969,19 @@
     ]
   },
   {
-    "id": 21,
+    "id": "f801e7381e",
     "organization_id": "khMYchPJB4",
     "name": "Black Coalition on AIDS (BCAS)",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Complimentary Alternative Medicine",
+    "latitude": 37.7504519,
+    "longitude": 37.7504519,
     "physical_address": [
       {
         "id": 21,
-        "organization_id": "khMYchPJB4",
-        "name": "Black Coalition on AIDS (BCAS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "601 Cesar Chavez St. ",
         "city": "San Francisco"
       }
     ],
-    "address_1": "601 Cesar Chavez St. ",
-    "city": "San Francisco",
     "services": [
       {
         "id": "gAZmvriAkR",
@@ -21697,27 +20001,19 @@
     ]
   },
   {
-    "id": 44,
+    "id": "f81e976f02",
     "organization_id": "AVcZGc00MB",
     "name": "Community Wellness Dept (Native American Health Center)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7676456,
+    "longitude": 37.7676456,
     "physical_address": [
       {
         "id": 44,
-        "organization_id": "AVcZGc00MB",
-        "name": "Community Wellness Dept (Native American Health Center)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "333 Valencia, Ste. 240",
         "city": "San Francisco"
       }
     ],
-    "address_1": "333 Valencia, Ste. 240",
-    "city": "San Francisco",
     "services": [
       {
         "id": "NPyTtwD9Pp",
@@ -21783,27 +20079,19 @@
     ]
   },
   {
-    "id": 12,
+    "id": "f917ff2dfa",
     "organization_id": "FRzjS63YSi",
     "name": "Asian Women's Shelter",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Asian Women's Shelter brings new hope to survivors of domestic violence and human trafficking. We provide comprehensive services, including a 24-hour crisis line, shelter program, case management and access to health and legal services. At AWS, survivors and their children begin to heal and rebuild their lives.",
+    "latitude": 37.7749295,
+    "longitude": 37.7749295,
     "physical_address": [
       {
         "id": 12,
-        "organization_id": "FRzjS63YSi",
-        "name": "Asian Women's Shelter",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "n/a",
         "city": "San Francisco"
       }
     ],
-    "address_1": "n/a",
-    "city": "San Francisco",
     "services": [
       {
         "id": "rJpGzKNwQm",
@@ -21869,27 +20157,19 @@
     ]
   },
   {
-    "id": 39,
+    "id": "f936aae859",
     "organization_id": "NDWOJGx4za",
     "name": "Chinatown Child Development Center (BHS)",
     "description": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 37.7935617,
+    "longitude": 37.7935617,
     "physical_address": [
       {
         "id": 39,
-        "organization_id": "NDWOJGx4za",
-        "name": "Chinatown Child Development Center (BHS)",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "720 Sacramento",
         "city": "San Francisco"
       }
     ],
-    "address_1": "720 Sacramento",
-    "city": "San Francisco",
     "services": [
       {
         "id": "I2unEOz3dP",
@@ -21958,27 +20238,19 @@
     ]
   },
   {
-    "id": 109,
+    "id": "f94ffba432",
     "organization_id": "6SOVQ8hukZ",
     "name": "North East Medical Services - Leland Branch",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Neighborhood clinic",
+    "latitude": 37.711995,
+    "longitude": 37.711995,
     "physical_address": [
       {
         "id": 109,
-        "organization_id": "6SOVQ8hukZ",
-        "name": "North East Medical Services - Leland Branch",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "82 Leland Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "82 Leland Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "DHtuP714lT",
@@ -22107,27 +20379,19 @@
     ]
   },
   {
-    "id": 195,
+    "id": "fdb08981fa",
     "organization_id": "vxukZcjQgT",
     "name": "Tom Waddell Urban Health - Primary Care",
-    "description": "",
-    "latitude": "",
-    "longitude": "",
+    "description": "Central Health Center",
+    "latitude": 37.7819184,
+    "longitude": 37.7819184,
     "physical_address": [
       {
         "id": 195,
-        "organization_id": "vxukZcjQgT",
-        "name": "Tom Waddell Urban Health - Primary Care",
-        "description": "",
-        "latitude": "",
-        "longitude": "",
-        "physical_address": null,
         "address_1": "230 Golden Gate Ave.",
         "city": "San Francisco"
       }
     ],
-    "address_1": "230 Golden Gate Ave.",
-    "city": "San Francisco",
     "services": [
       {
         "id": "U0sNNRZXUG",
